@@ -13,8 +13,6 @@ header-includes:
 - \newcommand{\elandscape}{\end{landscape}}
 ---
 
-
-
 # Trophic resources of the edaphic microarthropods: a worldwide review of the empirical evidence
 
 [Short title]{.ul}: Trophic resources of the edaphic microarthropods
@@ -22,21 +20,6 @@ header-includes:
 
  Víctor Nicolás Velazco^1,2^, Carlos Eduardo Coviella^1,2^, Liliana
  Beatriz Falco^1,2^, Leonardo Ariel Saravia^3,4^
----
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    
-documentclass: article
-geometry:
-- vmargin=1in
-- hmargin=1in
-header-includes:
-- \usepackage{pdflscape,booktabs}
-- \newcommand{\blandscape}{\begin{landscape}}
-- \newcommand{\elandscape}{\end{landscape}}
----
-
 
  ^1^ Departamento de Ciencias Básicas, Universidad Nacional de Luján
  (Argentina), ^2^ Instituto de Ecología y Desarrollo Sustentable (UNLu
