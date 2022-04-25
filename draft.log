@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  25 APR 2022 22:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  25 APR 2022 22:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -885,18 +885,14 @@ You may provide a definition with
 
  (draft.fff) [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
 [19] [20] [21]
-
-! LaTeX Error: Environment landscape undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1137 \begin{landscape}
-                        
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+! Undefined control sequence.
+l.1137 \blandscape
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
 Overfull \hbox (3.03462pt too wide) in paragraph at lines 1156--1157
@@ -1023,18 +1019,14 @@ Overfull \hbox (155.96133pt too wide) in alignment at lines 1388--1434
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
-
-! LaTeX Error: \begin{document} ended by \end{landscape}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1436 \end{landscape}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+! Undefined control sequence.
+l.1436 \elandscape
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 [24] 
 AED: lastpage setting LastPage
@@ -1169,10 +1161,10 @@ or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
- 18867 strings out of 478268
- 306361 string characters out of 5848350
+ 18866 strings out of 478268
+ 306349 string characters out of 5848350
  587634 words of memory out of 5000000
- 36733 multiletter control sequences out of 15000+600000
+ 36732 multiletter control sequences out of 15000+600000
  570516 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,117p,787b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
