@@ -1,17 +1,3 @@
----
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    
-documentclass: article
-geometry:
-- vmargin=1in
-- hmargin=1in
-header-includes:
-- \usepackage{pdflscape,booktabs}
-- \newcommand{\blandscape}{\begin{landscape}}
-- \newcommand{\elandscape}{\end{landscape}}
----
 
 # Trophic resources of the edaphic microarthropods: a worldwide review of the empirical evidence
 
