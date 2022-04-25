@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  25 APR 2022 21:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  25 APR 2022 22:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -849,11 +849,25 @@ LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
 ]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 5.69998pt on input line 214.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 275.
- [3
 
-] [4] [5]
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.227 \usepackage
+                 {pdflscape,booktabs}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.54997pt on input line 290.
+[3
+
+] [4] [5] [6]
 
 ! LaTeX Error: Unicode character δ (U+03B4)
                not set up for use with LaTeX.
@@ -862,7 +876,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.407 ... signatures; the isotopic signature of δ
+l.422 ... signatures; the isotopic signature of δ
                                                   15N informs about the
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -875,158 +889,166 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.408 ... level of the invertebrate and that of δ
+l.423 ... level of the invertebrate and that of δ
                                                   13C will indicate the
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[6] [7] [8]
+[7] [8] [9]
 \openout4 = `draft.fff'.
 
- (draft.fff) [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
-[19] [20] [21]
-! Undefined control sequence.
-l.1137 \blandscape
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ (draft.fff) [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+[20] [21]
+
+! LaTeX Error: Environment landscape undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1152 \begin{landscape}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-Overfull \hbox (3.03462pt too wide) in paragraph at lines 1156--1157
+Overfull \hbox (3.03462pt too wide) in paragraph at lines 1171--1172
 \T1/stix2/b/n/10.95 Re-source|  
  []
 
 
-Overfull \hbox (3.03462pt too wide) in paragraph at lines 1172--1173
+Overfull \hbox (3.03462pt too wide) in paragraph at lines 1187--1188
 \T1/stix2/b/n/10.95 Re-source|  
  []
 
 
-Overfull \hbox (17.47665pt too wide) in paragraph at lines 1194--1195
+Overfull \hbox (17.47665pt too wide) in paragraph at lines 1209--1210
 []\T1/stix2/m/n/10.95 Family|  
  []
 
 
-Overfull \hbox (18.933pt too wide) in paragraph at lines 1196--1197
+Overfull \hbox (18.933pt too wide) in paragraph at lines 1211--1212
 []\T1/stix2/m/n/10.95 Genera|  
  []
 
 
-Overfull \hbox (19.21771pt too wide) in paragraph at lines 1198--1199
+Overfull \hbox (19.21771pt too wide) in paragraph at lines 1213--1214
 []\T1/stix2/m/n/10.95 Species|  
  []
 
 
-Overfull \hbox (16.99583pt too wide) in paragraph at lines 1201--1202
+Overfull \hbox (16.99583pt too wide) in paragraph at lines 1216--1217
 []\T1/stix2/b/n/10.95 Saprophytic 
  []
 
 
-Overfull \hbox (1.58824pt too wide) in paragraph at lines 1210--1211
+Overfull \hbox (1.58824pt too wide) in paragraph at lines 1225--1226
 []\T1/stix2/b/n/10.95 105|  
  []
 
 
-Overfull \hbox (1.56635pt too wide) in paragraph at lines 1212--1213
+Overfull \hbox (1.56635pt too wide) in paragraph at lines 1227--1228
 []\T1/stix2/b/n/10.95 471|  
  []
 
 
-Overfull \hbox (16.34976pt too wide) in paragraph at lines 1215--1216
+Overfull \hbox (16.34976pt too wide) in paragraph at lines 1230--1231
 []\T1/stix2/b/n/10.95 Microfauna|  
  []
 
 
-Overfull \hbox (1.58824pt too wide) in paragraph at lines 1224--1225
+Overfull \hbox (1.58824pt too wide) in paragraph at lines 1239--1240
 []\T1/stix2/b/n/10.95 140|  
  []
 
 
-Overfull \hbox (1.58824pt too wide) in paragraph at lines 1226--1227
+Overfull \hbox (1.58824pt too wide) in paragraph at lines 1241--1242
 []\T1/stix2/b/n/10.95 294|  
  []
 
 
-Overfull \hbox (1.58824pt too wide) in paragraph at lines 1240--1241
+Overfull \hbox (1.58824pt too wide) in paragraph at lines 1255--1256
 []\T1/stix2/b/n/10.95 255|  
  []
 
 
-Overfull \hbox (1.54445pt too wide) in paragraph at lines 1254--1255
+Overfull \hbox (1.54445pt too wide) in paragraph at lines 1269--1270
 []\T1/stix2/b/n/10.95 277|  
  []
 
 
-Overfull \hbox (19.28438pt too wide) in paragraph at lines 1257--1258
+Overfull \hbox (19.28438pt too wide) in paragraph at lines 1272--1273
 []\T1/stix2/b/n/10.95 Mycorrhizal 
  []
 
 
-Overfull \hbox (1.58824pt too wide) in paragraph at lines 1267--1268
+Overfull \hbox (1.58824pt too wide) in paragraph at lines 1282--1283
 []\T1/stix2/b/n/10.95 124|  
  []
 
 
-Overfull \hbox (1.56635pt too wide) in paragraph at lines 1281--1282
+Overfull \hbox (1.56635pt too wide) in paragraph at lines 1296--1297
 []\T1/stix2/b/n/10.95 172|  
  []
 
 
-Overfull \hbox (11.55368pt too wide) in paragraph at lines 1284--1285
+Overfull \hbox (11.55368pt too wide) in paragraph at lines 1299--1300
 []\T1/stix2/b/n/10.95 Springtails|  
  []
 
 
-Overfull \hbox (1.58824pt too wide) in paragraph at lines 1294--1295
+Overfull \hbox (1.58824pt too wide) in paragraph at lines 1309--1310
 []\T1/stix2/b/n/10.95 138|  
  []
 
 
-Overfull \hbox (1.58824pt too wide) in paragraph at lines 1308--1309
+Overfull \hbox (1.58824pt too wide) in paragraph at lines 1323--1324
 []\T1/stix2/b/n/10.95 116|  
  []
 
 
-Overfull \hbox (1.58824pt too wide) in paragraph at lines 1335--1336
+Overfull \hbox (1.58824pt too wide) in paragraph at lines 1350--1351
 []\T1/stix2/b/n/10.95 111|  
  []
 
 
-Overfull \hbox (19.84279pt too wide) in paragraph at lines 1338--1339
+Overfull \hbox (19.84279pt too wide) in paragraph at lines 1353--1354
 []\T1/stix2/b/n/10.95 Invertebrate 
  []
 
 
-Overfull \hbox (23.55486pt too wide) in paragraph at lines 1351--1352
+Overfull \hbox (23.55486pt too wide) in paragraph at lines 1366--1367
 []\T1/stix2/b/n/10.95 Enchytraeids|  
  []
 
 
-Overfull \hbox (19.84279pt too wide) in paragraph at lines 1365--1366
+Overfull \hbox (19.84279pt too wide) in paragraph at lines 1380--1381
 []\T1/stix2/b/n/10.95 Invertebrate 
  []
 
 [22] [23]
-Overfull \hbox (155.96133pt too wide) in alignment at lines 1383--1388
+Overfull \hbox (155.96133pt too wide) in alignment at lines 1398--1403
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (155.96133pt too wide) in alignment at lines 1388--1434
+Overfull \hbox (155.96133pt too wide) in alignment at lines 1403--1449
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
-! Undefined control sequence.
-l.1436 \elandscape
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+
+! LaTeX Error: \begin{document} ended by \end{landscape}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1451 \end{landscape}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 [24] 
 AED: lastpage setting LastPage
@@ -1106,7 +1128,7 @@ height=3.60833in]{Figures/Bi_Orden_Recurso.jpeg} \caption {Bipartite \ETC.
 ! File ended while scanning use of \Gin@iii.
 <inserted text> 
                 \par 
-l.1452 \end{document}
+l.1467 \end{document}
                      
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1120,7 +1142,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1452 \end{document}
+l.1467 \end{document}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1133,7 +1155,7 @@ Package rerunfilecheck Info: File `draft.out' has not changed.
 ! You can't use `\end' in internal vertical mode.
 \enddocument ...cument/end}\deadcycles \z@ \@@end 
                                                   
-l.1452 \end{document}
+l.1467 \end{document}
                      
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1147,7 +1169,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1452 \end{document}
+l.1467 \end{document}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1161,11 +1183,11 @@ or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
- 18866 strings out of 478268
- 306349 string characters out of 5848350
+ 18871 strings out of 478268
+ 306413 string characters out of 5848350
  587634 words of memory out of 5000000
- 36732 multiletter control sequences out of 15000+600000
- 570516 words of font info for 91 fonts, out of 8000000 for 9000
+ 36737 multiletter control sequences out of 15000+600000
+ 570857 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,117p,787b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!
