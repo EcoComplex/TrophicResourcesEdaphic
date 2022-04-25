@@ -24,7 +24,7 @@
       "status": ["corresponding", "equal"]
     }
   ],
-  "abstract": {Ecosystem sustainable use requires reliable information about its
+  "abstract": {"Ecosystem sustainable use requires reliable information about its
  biotic and abiotic structure and functioning. Accurate knowledge of
  trophic relations is central for the understanding of ecosystem
  dynamics, which in turn, is essential for food web stability analyzes
@@ -49,8 +49,7 @@
  mesofauna to specific trophic resources. It also highlights that
  available research mostly comes from European sites, with the use of
  trophic resources by the mesofauna of the majority of the soils in
- other parts of the world still largely unknown.
-  },
+ other parts of the world still largely unknown."},
   "keywords": [
     "trophic ecology",
     "soil mesofauna",
