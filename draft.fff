@@ -1,10 +1,44 @@
 \begin{figure}
-\hypertarget{fig:figure}{%
 \centering
-\includegraphics{figures/figure.png}
-\caption{This is the legend of the figure, which will be shown in the
-margin in preprint mode, and underneath the figure in draft mode. The
-legend can contain references, etc. It is advised to use a resolution of
-at least 600dpi for the figures.}\label{fig:figure}
-}
+\includegraphics[width=5in,height=2.51944in]{Figures/world_records.png}
+\caption{World map showing the distribution of records assigning trophic
+resources to soil mesofauna, largely unexplored outside Europe and the
+United States.}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+\includegraphics[width=4.92014in,height=4.92014in]{Figures/Metodo_ByTaxLevel.jpeg}
+\caption{Methods used in the literature to assign trophic resources to
+soil mesofauna taxa. Colors within columns refer to the number of
+different taxonomic levels for which each method assigned at least one
+resource. Assay: laboratory tests and observations. Isotopes: stable
+isotopes. Gut: intestinal content. Enzymes: Digestive enzymes. Mouth:
+mouthparts morphology. Lipid: lipid profile. Mo. det: molecular
+detection of intestinal content, f.p.: Food preference assays. Obs.:
+direct lab observations of feeding activity. Reviews: general reviews by
+other authors.}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+\includegraphics[width=5.11667in,height=5.11667in]{Figures/Recursos_ByMetodo.jpeg}
+\caption{The number of records in the literature assigning each one of
+the 13 trophic resources to a mesofauna taxon as shown in Table 1.
+Colors in the columns refer to the method used to assign those trophic
+resources to a particular taxon. Methods as in Fig. 2.}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+\includegraphics[width=5.4125in,height=3.60833in]{Figures/Bi_Orden_Recurso.jpeg}
+\caption{Bipartite graph showing the use of trophic resources by the
+main orders of Acari and Collembola. Upper nodes: Acari and Collembola
+orders as in Table 2. Lower nodes: trophic resources. The thickness and
+intensity of the lines give an idea of the proportion of mentions in the
+available literature about their use of trophic resources. Resource
+names as in Tables 1 and 2.}
 \end{figure}
