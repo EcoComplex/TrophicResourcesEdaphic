@@ -373,6 +373,59 @@ We obtained a total of 3015 records on trophic relationships (ESM II), with Acar
  eggs - enchytraeids, as food resources. These methods rarely mention
  the consumption of Mycorrhizal fungi and rarely the use of humus.
 
+\begin{longtable}[]{@{}lcccccccccccccccccc@{}}
+\caption{Breakdown of resources by Nested boxes represent the main orders of Acari and Collembola. In parentheses is the total number of taxa for the taxonomic category. Within the cells, the number of taxa associated with the trophic resource is shown. M: Mesostigmata, S: Sarcoptiformes, T: Trombidiformes, A: Arthropleona, N: Neelipleona, Sy: Symphypleona.}\\
+\toprule
+\textbf{Trophic Resource} & \multicolumn{6}{l}{FAMILY} & \multicolumn{6}{l}{GENERA} & \multicolumn{6}{l}{SPECIES} \\ \addlinespace
+\midrule
+\endhead
+& \vtop{\hbox{\strut M}\hbox{\strut (34)}} &
+\vtop{\hbox{\strut S}\hbox{\strut (82)}} &
+\vtop{\hbox{\strut T}\hbox{\strut (32)}} &
+\vtop{\hbox{\strut A}\hbox{\strut (9)}} &
+\vtop{\hbox{\strut N}\hbox{\strut (1)}} &
+\vtop{\hbox{\strut Sy}\hbox{\strut (3)}} &
+\vtop{\hbox{\strut M}\hbox{\strut (89)}} &
+\vtop{\hbox{\strut S}\hbox{\strut (157)}} &
+\vtop{\hbox{\strut T}\hbox{\strut (28)}} &
+\vtop{\hbox{\strut A}\hbox{\strut (58)}} &
+\vtop{\hbox{\strut N}\hbox{\strut (2)}} &
+\vtop{\hbox{\strut Sy}\hbox{\strut (10)}} &
+\vtop{\hbox{\strut M}\hbox{\strut (136)}} &
+\vtop{\hbox{\strut S}\hbox{\strut (264)}} &
+\vtop{\hbox{\strut T}\hbox{\strut (22)}} &
+\vtop{\hbox{\strut A}\hbox{\strut (155)}} &
+\vtop{\hbox{\strut N}\hbox{\strut (1)}} &
+\vtop{\hbox{\strut Sy}\hbox{\strut (13)}} \\ \addlinespace
+\textbf{Saprophytic fungi} & 7 & 68 & 10 & 9 & 1 & 2 & 11 & 120 & 10 &
+54 & 1 & 7 & 7 & 160 & 3 & 119 & 1 & 8 \\ \addlinespace
+\textbf{Microfauna} & 32 & 26 & 23 & 8 & 0 & 0 & 80 & 40 & 4 & 33 & 0 &
+0 & 106 & 47 & 0 & 39 & 0 & 0 \\ \addlinespace
+\textbf{Bacteria} & 4 & 55 & 6 & 9 & 1 & 2 & 4 & 91 & 7 & 38 & 2 & 5 & 3
+& 109 & 7 & 67 & 1 & 5 \\ \addlinespace
+\textbf{Litter} & 0 & 43 & 0 & 8 & 1 & 3 & 0 & 79 & 0 & 35 & 1 & 6 & 0 &
+124 & 0 & 59 & 1 & 5 \\ \addlinespace
+\textbf{Mycorrhizal fungi} & 2 & 31 & 3 & 7 & 0 & 1 & 1 & 44 & 0 & 28 &
+0 & 2 & 0 & 54 & 0 & 46 & 0 & 2 \\ \addlinespace
+\textbf{Plant tissue} & 0 & 42 & 5 & 7 & 0 & 2 & 0 & 72 & 4 & 20 & 0 & 7
+& 0 & 100 & 3 & 26 & 0 & 7 \\ \addlinespace
+\textbf{Springtails} & 24 & 0 & 27 & 2 & 0 & 0 & 53 & 0 & 13 & 3 & 0 & 0
+& 80 & 0 & 9 & 4 & 0 & 0 \\ \addlinespace
+\textbf{Mites} & 21 & 0 & 26 & 1 & 0 & 0 & 54 & 0 & 10 & 1 & 0 & 0 & 81
+& 0 & 7 & 0 & 0 & 0 \\ \addlinespace
+\textbf{Larvae} & 12 & 0 & 9 & 0 & 0 & 0 & 32 & 0 & 0 & 0 & 0 & 0 & 41 &
+0 & 0 & 0 & 0 & 0 \\ \addlinespace
+\textbf{Humus} & 0 & 24 & 2 & 8 & 1 & 2 & 0 & 27 & 0 & 26 & 1 & 3 & 0 &
+28 & 0 & 49 & 1 & 3 \\ \addlinespace
+\textbf{Invertebrate eggs} & 15 & 0 & 10 & 3 & 0 & 0 & 33 & 0 & 2 & 5 &
+0 & 0 & 52 & 0 & 1 & 4 & 0 & 0 \\ \addlinespace
+\textbf{Enchytraeids} & 17 & 0 & 7 & 4 & 0 & 0 & 41 & 0 & 0 & 4 & 0 & 0
+& 46 & 0 & 0 & 3 & 0 & 0 \\ \addlinespace
+\textbf{Invertebrate carrion} & 5 & 22 & 2 & 6 & 1 & 2 & 9 & 30 & 0 & 28
+& 1 & 3 & 11 & 31 & 0 & 40 & 1 & 4 \\ \addlinespace
+\bottomrule
+\end{longtable}
+
 
 ### Use of trophic resources by soil microarthropods
 
@@ -836,68 +889,8 @@ However, this information must be interpreted with caution, because within a tax
  Warcup JH., 1971. Hongos del Suelo, In: Burges, A., Raw, F. (Eds.),
  Biología del Suelo. Chapter 3. Ediciones Omega, Barcelona. pp. 27--68.
 
-\newpage
-
-## Tables
-
-\newpage
-
-\begin{longtable}[]{@{}lcccccccccccccccccc@{}}
-\caption{Breakdown of resources by Nested boxes represent the main orders of Acari and Collembola. In parentheses is the total number of taxa for the taxonomic category. Within the cells, the number of taxa associated with the trophic resource is shown. M: Mesostigmata, S: Sarcoptiformes, T: Trombidiformes, A: Arthropleona, N: Neelipleona, Sy: Symphypleona.}\\
-\toprule
-\textbf{Trophic Resource} & \multicolumn{6}{l}{FAMILY} & \multicolumn{6}{l}{GENERA} & \multicolumn{6}{l}{SPECIES} \\ \addlinespace
-\midrule
-\endhead
-& \vtop{\hbox{\strut M}\hbox{\strut (34)}} &
-\vtop{\hbox{\strut S}\hbox{\strut (82)}} &
-\vtop{\hbox{\strut T}\hbox{\strut (32)}} &
-\vtop{\hbox{\strut A}\hbox{\strut (9)}} &
-\vtop{\hbox{\strut N}\hbox{\strut (1)}} &
-\vtop{\hbox{\strut Sy}\hbox{\strut (3)}} &
-\vtop{\hbox{\strut M}\hbox{\strut (89)}} &
-\vtop{\hbox{\strut S}\hbox{\strut (157)}} &
-\vtop{\hbox{\strut T}\hbox{\strut (28)}} &
-\vtop{\hbox{\strut A}\hbox{\strut (58)}} &
-\vtop{\hbox{\strut N}\hbox{\strut (2)}} &
-\vtop{\hbox{\strut Sy}\hbox{\strut (10)}} &
-\vtop{\hbox{\strut M}\hbox{\strut (136)}} &
-\vtop{\hbox{\strut S}\hbox{\strut (264)}} &
-\vtop{\hbox{\strut T}\hbox{\strut (22)}} &
-\vtop{\hbox{\strut A}\hbox{\strut (155)}} &
-\vtop{\hbox{\strut N}\hbox{\strut (1)}} &
-\vtop{\hbox{\strut Sy}\hbox{\strut (13)}} \\ \addlinespace
-\textbf{Saprophytic fungi} & 7 & 68 & 10 & 9 & 1 & 2 & 11 & 120 & 10 &
-54 & 1 & 7 & 7 & 160 & 3 & 119 & 1 & 8 \\ \addlinespace
-\textbf{Microfauna} & 32 & 26 & 23 & 8 & 0 & 0 & 80 & 40 & 4 & 33 & 0 &
-0 & 106 & 47 & 0 & 39 & 0 & 0 \\ \addlinespace
-\textbf{Bacteria} & 4 & 55 & 6 & 9 & 1 & 2 & 4 & 91 & 7 & 38 & 2 & 5 & 3
-& 109 & 7 & 67 & 1 & 5 \\ \addlinespace
-\textbf{Litter} & 0 & 43 & 0 & 8 & 1 & 3 & 0 & 79 & 0 & 35 & 1 & 6 & 0 &
-124 & 0 & 59 & 1 & 5 \\ \addlinespace
-\textbf{Mycorrhizal fungi} & 2 & 31 & 3 & 7 & 0 & 1 & 1 & 44 & 0 & 28 &
-0 & 2 & 0 & 54 & 0 & 46 & 0 & 2 \\ \addlinespace
-\textbf{Plant tissue} & 0 & 42 & 5 & 7 & 0 & 2 & 0 & 72 & 4 & 20 & 0 & 7
-& 0 & 100 & 3 & 26 & 0 & 7 \\ \addlinespace
-\textbf{Springtails} & 24 & 0 & 27 & 2 & 0 & 0 & 53 & 0 & 13 & 3 & 0 & 0
-& 80 & 0 & 9 & 4 & 0 & 0 \\ \addlinespace
-\textbf{Mites} & 21 & 0 & 26 & 1 & 0 & 0 & 54 & 0 & 10 & 1 & 0 & 0 & 81
-& 0 & 7 & 0 & 0 & 0 \\ \addlinespace
-\textbf{Larvae} & 12 & 0 & 9 & 0 & 0 & 0 & 32 & 0 & 0 & 0 & 0 & 0 & 41 &
-0 & 0 & 0 & 0 & 0 \\ \addlinespace
-\textbf{Humus} & 0 & 24 & 2 & 8 & 1 & 2 & 0 & 27 & 0 & 26 & 1 & 3 & 0 &
-28 & 0 & 49 & 1 & 3 \\ \addlinespace
-\textbf{Invertebrate eggs} & 15 & 0 & 10 & 3 & 0 & 0 & 33 & 0 & 2 & 5 &
-0 & 0 & 52 & 0 & 1 & 4 & 0 & 0 \\ \addlinespace
-\textbf{Enchytraeids} & 17 & 0 & 7 & 4 & 0 & 0 & 41 & 0 & 0 & 4 & 0 & 0
-& 46 & 0 & 0 & 3 & 0 & 0 \\ \addlinespace
-\textbf{Invertebrate carrion} & 5 & 22 & 2 & 6 & 1 & 2 & 9 & 30 & 0 & 28
-& 1 & 3 & 11 & 31 & 0 & 40 & 1 & 4 \\ \addlinespace
-\bottomrule
-\end{longtable}
 
  
-
-\newpage
 
 
 **[Supplementary Material Captions]**
