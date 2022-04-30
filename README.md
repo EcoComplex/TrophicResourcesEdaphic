@@ -160,8 +160,8 @@ The empirical evidence provided through studies carried out under  <!-- Esto es 
 
  The use of the natural variation of **stable isotopes** (F) as
  empirical evidence of the use of trophic resources is based on the
- study of isotopic signatures; the isotopic signature of $\delta$15N informs
- about the trophic level of the invertebrate and that of $\delta$13C will
+ study of isotopic signatures; the isotopic signature of $\delta\text{15N}$ informs
+ about the trophic level of the invertebrate and that of $\delta\text{13C}$ will
  indicate the proportion of trophic resources consumed, but the
  potential trophic resources need to be chosen previously to the
  isotopic analysis. (Tiunov 2007; Maraun et al. 2011; Potapov, Tiunov,
