@@ -286,8 +286,7 @@ Based on this allocation strategy, we developed a database presented in Suppleme
 
  ![World map showing the distribution of records assigning
  trophic resources to soil mesofauna, largely unexplored outside Europe
- and the United States.](Figures/world_records.png){width="5.0in"
- height="2.5194444444444444in"}
+ and the United States.](figures/world_records.png){width="5.0in"eight="2.51n"}
 
 We obtained a total of 3015 records on trophic relationships (ESM II), with Acari contributing 2218 records (73.57%), and within this number, the majority (50.86%) corresponds to Sarcoptiformes. According to the taxonomic resolution, data of 170 species, 30 genera and 2 families of Collembola and 412 species, 131 genera and 49 families of Acari were obtained.
 
@@ -300,8 +299,8 @@ We obtained a total of 3015 records on trophic relationships (ESM II), with Acar
  empirical evidence from the database with 706 records (Figure 2).
 
 
-![Methods used in the literature to assign trophic resources to soil mesofauna taxa. Colors within columns refer to the number of different taxonomic levels for which each method assigned at least one resource. Assay: laboratory tests and observations. Isotopes: stable isotopes. Gut: intestinal content. Enzymes: Digestive enzymes. Mouth: mouthparts morphology. Lipid: lipid profile. Mo. det: molecular detection of intestinal content, f.p.: Food preference assays. Obs.: direct lab observations of feeding activity. Reviews: general reviews by other authors.](Figures/Metodo_ByTaxLevel.png){width="4.920138888888889in"
- height="4.920138888888889in"}
+![Methods used in the literature to assign trophic resources to soil mesofauna taxa. Colors within columns refer to the number of different taxonomic levels for which each method assigned at least one resource. Assay: laboratory tests and observations. Isotopes: stable isotopes. Gut: intestinal content. Enzymes: Digestive enzymes. Mouth: mouthparts morphology. Lipid: lipid profile. Mo. det: molecular detection of intestinal content, f.p.: Food preference assays. Obs.: direct lab observations of feeding activity. Reviews: general reviews by other authors.](figures/Metodo_ByTaxLevel.png){width="4.14in"
+ height="4.in"}
 
  Microarthropods at the family level constitute 9.3% of the
  observations in laboratory tests, with 63.6% of the total
@@ -344,7 +343,7 @@ We obtained a total of 3015 records on trophic relationships (ESM II), with Acar
  consumption, of which 16 were associated with the taxonomic level of
  the family, 105 to the genus level, and 474 to the species level.
 
-![The number of records in the literature assigning each one of the 13 trophic resources to a mesofauna taxon as shown in Table 1. Colors in the columns refer to the method used to assign those trophic resources to a particular taxon. Methods as in Fig. 2.](Figures/Recursos_ByMetodo.png){width="5.116666666666666in" height="5.116666666666666in"}
+![The number of records in the literature assigning each one of the 13 trophic resources to a mesofauna taxon as shown in Table 1. Colors in the columns refer to the method used to assign those trophic resources to a particular taxon. Methods as in Fig. 2.](figures/Recursos_ByMetodo.png){width="5.7in" height="5.in"}
 
  Laboratory observations (the most used method), mention the use of the
  thirteen trophic resources (Figure 3) in which the order of importance
@@ -398,8 +397,8 @@ We obtained a total of 3015 records on trophic relationships (ESM II), with Acar
 The empirical evidence that addresses the trophic study of Arthropleona (Collembola) is represented by 154 different species, these were mainly associated with saprophytic fungi (119 species), followed in importance by bacteria, litter and humus. The microfauna is mentioned as a resource for 39 species.
 
 
-![Bipartite graph showing the use of trophic resources by the main orders of Acari and Collembola. Upper nodes: Acari and Collembola orders as in Table 2. Lower nodes: trophic resources. The thickness and intensity of the lines give an idea of the proportion of mentions in the available literature about their use of trophic resources. Resource names as in Tables 1 and 2.](Figures/Bi_Orden_Recurso.png){width="5.4125in"
- height="3.6083333333333334in"}
+![Bipartite graph showing the use of trophic resources by the main orders of Acari and Collembola. Upper nodes: Acari and Collembola orders as in Table 2. Lower nodes: trophic resources. The thickness and intensity of the lines give an idea of the proportion of mentions in the available literature about their use of trophic resources. Resource names as in Tables 1 and 2.](figures/Bi_Orden_Recurso.png){width="5.4in"
+ height="3.6in"}
 
  Figure 4 presents the proportion of resources used by the main 3 mite
  orders and 3 Collembola orders, as found in the literature. For
