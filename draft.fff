@@ -9,7 +9,7 @@ United States.}
  
 \begin{figure}
 \centering
-\includegraphics[width=4.14in,height=\textheight]{figures/Metodo_ByTaxLevel.png}
+\includegraphics{figures/Metodo_ByTaxLevel.png}
 \caption{Methods used in the literature to assign trophic resources to
 soil mesofauna taxa. Colors within columns refer to the number of
 different taxonomic levels for which each method assigned at least one
@@ -24,7 +24,7 @@ other authors.}
  
 \begin{figure}
 \centering
-\includegraphics[width=5.7in,height=\textheight]{figures/Recursos_ByMetodo.png}
+\includegraphics{figures/Recursos_ByMetodo.png}
 \caption{The number of records in the literature assigning each one of
 the 13 trophic resources to a mesofauna taxon as shown in Table 1.
 Colors in the columns refer to the method used to assign those trophic
@@ -34,7 +34,7 @@ resources to a particular taxon. Methods as in Fig. 2.}
  
 \begin{figure}
 \centering
-\includegraphics[width=5.4in,height=3.6in]{figures/Bi_Orden_Recurso.png}
+\includegraphics{figures/Bi_Orden_Recurso.png}
 \caption{Bipartite graph showing the use of trophic resources by the
 main orders of Acari and Collembola. Upper nodes: Acari and Collembola
 orders as in Table 2. Lower nodes: trophic resources. The thickness and

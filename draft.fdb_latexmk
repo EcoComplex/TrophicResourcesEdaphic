@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1651342815 "draft.tex" "draft.pdf" "draft" 1651342816
+["pdflatex"] 1651343557 "draft.tex" "draft.pdf" "draft" 1651343558
   "/opt/texlive/texdir/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1136768653 4484 b828043cbd581d289d955903c1339981 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm" 1136768653 6628 34c39492c0adc454c1c199922bba8363 ""
@@ -130,10 +130,13 @@
   "/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1649102900 4410328 ad4c8b228945fed75b2c936885ec50a0 ""
   "/opt/texlive/texdir/texmf-var/web2c/pdftex/pdflatex.fmt" 1649102970 2826451 94aa35869eb83e6c7f1128c86158d424 ""
   "/opt/texlive/texdir/texmf.cnf" 1649102891 555 bd60ff59e4d560b42d96b004436f91d3 ""
-  "draft.aux" 1651342815 7326 c8a44692b6a89d0909fcd1d84eefd421 "pdflatex"
-  "draft.fff" 1651342815 1897 eaf0458044adf77f53d24b6a0ccc7fa0 "pdflatex"
-  "draft.out" 1651342815 2785 1ca89ef7443597c1fe52d39040fc33ac "pdflatex"
-  "draft.tex" 1651342811 68840 c037c25f10dad86ac52fe030022b5374 ""
+  "draft.aux" 1651343558 7326 c8a44692b6a89d0909fcd1d84eefd421 "pdflatex"
+  "draft.fff" 1651343558 1806 615d30f94bcc683d5ddc4d2d92f73de3 "pdflatex"
+  "draft.out" 1651343558 2785 1ca89ef7443597c1fe52d39040fc33ac "pdflatex"
+  "draft.tex" 1651343554 68629 3dee7cf922350a79ae59a398fe30a031 ""
+  "figures/Bi_Orden_Recurso.png" 1651343554 1667392 69d38f54a760f3a9444654a91f5ce88c ""
+  "figures/Metodo_ByTaxLevel.png" 1651343554 161544 f223f81cc5bb3fccaf1a7d4d895c5894 ""
+  "figures/Recursos_ByMetodo.png" 1651343554 186919 3d6f4d03981a11fb3d6643e627ce1af4 ""
   (generated)
   "draft.aux"
   "draft.fff"

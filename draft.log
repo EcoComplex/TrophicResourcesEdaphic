@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  30 APR 2022 18:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  30 APR 2022 18:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -853,98 +853,79 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 
  (draft.fff) [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
 [20] [21]
-Overfull \hbox (12.5883pt too wide) in paragraph at lines 1191--1192
+Overfull \hbox (12.5883pt too wide) in paragraph at lines 1190--1191
  []\T1/stix2/m/n/10.95 Family| 
  []
 
 
-Overfull \hbox (14.04465pt too wide) in paragraph at lines 1193--1194
+Overfull \hbox (14.04465pt too wide) in paragraph at lines 1192--1193
  []\T1/stix2/m/n/10.95 Genera| 
  []
 
 
-Overfull \hbox (14.32936pt too wide) in paragraph at lines 1195--1196
+Overfull \hbox (14.32936pt too wide) in paragraph at lines 1194--1195
  []\T1/stix2/m/n/10.95 Species| 
  []
 
 
-Overfull \hbox (12.5883pt too wide) in paragraph at lines 1207--1208
+Overfull \hbox (12.5883pt too wide) in paragraph at lines 1206--1207
  []\T1/stix2/m/n/10.95 Family| 
  []
 
 
-Overfull \hbox (14.04465pt too wide) in paragraph at lines 1209--1210
+Overfull \hbox (14.04465pt too wide) in paragraph at lines 1208--1209
  []\T1/stix2/m/n/10.95 Genera| 
  []
 
 
-Overfull \hbox (14.32936pt too wide) in paragraph at lines 1211--1212
+Overfull \hbox (14.32936pt too wide) in paragraph at lines 1210--1211
  []\T1/stix2/m/n/10.95 Species| 
  []
 
 
-Overfull \hbox (7.21167pt too wide) in paragraph at lines 1216--1217
+Overfull \hbox (7.21167pt too wide) in paragraph at lines 1215--1216
 []\T1/stix2/b/n/10.95 Saprophytic 
  []
 
 
-Overfull \hbox (6.5656pt too wide) in paragraph at lines 1230--1231
+Overfull \hbox (6.5656pt too wide) in paragraph at lines 1229--1230
 []\T1/stix2/b/n/10.95 Microfauna|  
  []
 
 
-Overfull \hbox (9.50021pt too wide) in paragraph at lines 1272--1273
+Overfull \hbox (9.50021pt too wide) in paragraph at lines 1271--1272
 []\T1/stix2/b/n/10.95 Mycorrhizal 
  []
 
 
-Overfull \hbox (1.76952pt too wide) in paragraph at lines 1299--1300
+Overfull \hbox (1.76952pt too wide) in paragraph at lines 1298--1299
 []\T1/stix2/b/n/10.95 Springtails|  
  []
 
 
-Overfull \hbox (10.05862pt too wide) in paragraph at lines 1353--1354
+Overfull \hbox (10.05862pt too wide) in paragraph at lines 1352--1353
 []\T1/stix2/b/n/10.95 Invertebrate 
  []
 
 
-Overfull \hbox (13.77069pt too wide) in paragraph at lines 1366--1367
+Overfull \hbox (13.77069pt too wide) in paragraph at lines 1365--1366
 []\T1/stix2/b/n/10.95 Enchytraeids|  
  []
 
 
-Overfull \hbox (10.05862pt too wide) in paragraph at lines 1380--1381
+Overfull \hbox (10.05862pt too wide) in paragraph at lines 1379--1380
 []\T1/stix2/b/n/10.95 Invertebrate 
  []
 
 [22] [23]
-! Undefined control sequence.
-l.1397 \blandscape
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (155.96133pt too wide) in alignment at lines 1399--1404
+Overfull \hbox (155.96133pt too wide) in alignment at lines 1397--1402
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (155.96133pt too wide) in alignment at lines 1404--1450
+Overfull \hbox (155.96133pt too wide) in alignment at lines 1402--1448
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
-
-! Undefined control sequence.
-l.1452 \elandscape
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
 [24] 
 AED: lastpage setting LastPage
@@ -972,17 +953,11 @@ l.11 \centering
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Runaway argument?
-height=\textheight ]{figures/Metodo_ByTaxLevel.png} \caption {Methods\ETC.
-! Paragraph ended before \Gin@iii was complete.
-<to be read again> 
-                   \par 
-l.24 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
+<figures/Metodo_ByTaxLevel.png, id=221, 433.62pt x 433.62pt>
+File: figures/Metodo_ByTaxLevel.png Graphic file (type png)
+<use figures/Metodo_ByTaxLevel.png>
+Package pdftex.def Info: figures/Metodo_ByTaxLevel.png  used on input line 12.
+(pdftex.def)             Requested size: 433.61894pt x 433.63878pt.
 
 ! LaTeX Error: Not in outer par mode.
 
@@ -995,17 +970,11 @@ l.26 \centering
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Runaway argument?
-height=\textheight ]{figures/Recursos_ByMetodo.png} \caption {The num\ETC.
-! Paragraph ended before \Gin@iii was complete.
-<to be read again> 
-                   \par 
-l.34 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
+<figures/Recursos_ByMetodo.png, id=223, 433.62pt x 433.62pt>
+File: figures/Recursos_ByMetodo.png Graphic file (type png)
+<use figures/Recursos_ByMetodo.png>
+Package pdftex.def Info: figures/Recursos_ByMetodo.png  used on input line 27.
+(pdftex.def)             Requested size: 433.61894pt x 433.63878pt.
 
 ! LaTeX Error: Not in outer par mode.
 
@@ -1018,27 +987,20 @@ l.36 \centering
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+<figures/Bi_Orden_Recurso.png, id=224, 650.43pt x 433.62pt>
+File: figures/Bi_Orden_Recurso.png Graphic file (type png)
+<use figures/Bi_Orden_Recurso.png>
+Package pdftex.def Info: figures/Bi_Orden_Recurso.png  used on input line 37.
+(pdftex.def)             Requested size: 489.10307pt x 326.07434pt.
 )
-Runaway argument?
-height=3.6in]{figures/Bi_Orden_Recurso.png} \caption {Bipartite graph\ETC.
-! File ended while scanning use of \Gin@iii.
-<inserted text> 
-                \par 
-l.1468 \end{document}
-                     
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
 
-
-! LaTeX Error: \begin{figure} on input line 35 ended by \end{document}.
+! LaTeX Error: \begin{figure} on input line 1 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1468 \end{document}
+l.1464 \end{document}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1051,7 +1013,7 @@ Package rerunfilecheck Info: File `draft.out' has not changed.
 ! You can't use `\end' in internal vertical mode.
 \enddocument ...cument/end}\deadcycles \z@ \@@end 
                                                   
-l.1468 \end{document}
+l.1464 \end{document}
                      
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1059,13 +1021,13 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-! LaTeX Error: \begin{figure} on input line 35 ended by \end{document}.
+! LaTeX Error: \begin{figure} on input line 1 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1468 \end{document}
+l.1464 \end{document}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1079,11 +1041,11 @@ or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
- 18838 strings out of 478268
- 305797 string characters out of 5848350
+ 18864 strings out of 478268
+ 306536 string characters out of 5848350
  587623 words of memory out of 5000000
- 36708 multiletter control sequences out of 15000+600000
+ 36729 multiletter control sequences out of 15000+600000
  570175 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,117p,669b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,12n,117p,669b,546s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!
