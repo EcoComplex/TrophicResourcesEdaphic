@@ -373,30 +373,17 @@ We obtained a total of 3015 records on trophic relationships (ESM II), with Acar
  eggs - enchytraeids, as food resources. These methods rarely mention
  the consumption of Mycorrhizal fungi and rarely the use of humus.
 
+\scriptsize
 \begin{longtable}[]{@{}lcccccccccccccccccc@{}}
 \caption{Breakdown of resources by Nested boxes represent the main orders of Acari and Collembola. In parentheses is the total number of taxa for the taxonomic category. Within the cells, the number of taxa associated with the trophic resource is shown. M: Mesostigmata, S: Sarcoptiformes, T: Trombidiformes, A: Arthropleona, N: Neelipleona, Sy: Symphypleona.}\\
 \toprule
 \textbf{Trophic Resource} & \multicolumn{6}{l}{FAMILY} & \multicolumn{6}{l}{GENERA} & \multicolumn{6}{l}{SPECIES} \\ \addlinespace
+& M & S & T & A & N & Sy & M & S & T & A & N & Sy & M & S & T & A & N &
+Sy \\ \addlinespace
 \midrule
 \endhead
-& \vtop{\hbox{\strut M}\hbox{\strut (34)}} &
-\vtop{\hbox{\strut S}\hbox{\strut (82)}} &
-\vtop{\hbox{\strut T}\hbox{\strut (32)}} &
-\vtop{\hbox{\strut A}\hbox{\strut (9)}} &
-\vtop{\hbox{\strut N}\hbox{\strut (1)}} &
-\vtop{\hbox{\strut Sy}\hbox{\strut (3)}} &
-\vtop{\hbox{\strut M}\hbox{\strut (89)}} &
-\vtop{\hbox{\strut S}\hbox{\strut (157)}} &
-\vtop{\hbox{\strut T}\hbox{\strut (28)}} &
-\vtop{\hbox{\strut A}\hbox{\strut (58)}} &
-\vtop{\hbox{\strut N}\hbox{\strut (2)}} &
-\vtop{\hbox{\strut Sy}\hbox{\strut (10)}} &
-\vtop{\hbox{\strut M}\hbox{\strut (136)}} &
-\vtop{\hbox{\strut S}\hbox{\strut (264)}} &
-\vtop{\hbox{\strut T}\hbox{\strut (22)}} &
-\vtop{\hbox{\strut A}\hbox{\strut (155)}} &
-\vtop{\hbox{\strut N}\hbox{\strut (1)}} &
-\vtop{\hbox{\strut Sy}\hbox{\strut (13)}} \\ \addlinespace
+\textbf{Total} & 34 & 82 & 32 & 9 & 1 & 3 & 89 & 157 & 28 & 58 & 2 & 10
+& 136 & 264 & 22 & 154 & 1 & 13 \\ \addlinespace
 \textbf{Saprophytic fungi} & 7 & 68 & 10 & 9 & 1 & 2 & 11 & 120 & 10 &
 54 & 1 & 7 & 7 & 160 & 3 & 119 & 1 & 8 \\ \addlinespace
 \textbf{Microfauna} & 32 & 26 & 23 & 8 & 0 & 0 & 80 & 40 & 4 & 33 & 0 &
@@ -425,7 +412,7 @@ We obtained a total of 3015 records on trophic relationships (ESM II), with Acar
 & 1 & 3 & 11 & 31 & 0 & 40 & 1 & 4 \\ \addlinespace
 \bottomrule
 \end{longtable}
-
+\normalsize
 
 ### Use of trophic resources by soil microarthropods
 
