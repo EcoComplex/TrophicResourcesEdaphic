@@ -3,21 +3,7 @@
 [Short title]{.ul}: Trophic resources of the edaphic microarthropods
 
 
- Víctor Nicolás Velazco^1,2^, Carlos Eduardo Coviella^1,2^, Liliana
- Beatriz Falco^1,2^, Leonardo Ariel Saravia^3,4^
-
- ^1^ Departamento de Ciencias Básicas, Universidad Nacional de Luján
- (Argentina), ^2^ Instituto de Ecología y Desarrollo Sustentable (UNLu
- -- CONICET), ^3^ Instituto de Ciencias, Universidad Nacional de
- General Sarmiento (Argentina) ^4^ Centro Austral de Investigaciones
- Científicas (CADIC-CONICET), Ushuaia, Argentina.
-
- Corresponding author:
-
- Dr. Leonardo A. Saravia
-
-
- Author contributions: LF and LS originally formulated the idea, NV, CC
+**Author contributions:** LF and LS originally formulated the idea, NV, CC
  developed the methodology, NV, CC, LF, and LS analyzed the data and
  wrote the manuscript.
 
