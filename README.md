@@ -1,4 +1,3 @@
-
 # Trophic resources of the edaphic microarthropods: a worldwide review of the empirical evidence
 
 [Short title]{.ul}: Trophic resources of the edaphic microarthropods
@@ -17,7 +16,7 @@
 
  Dr. Leonardo A. Saravia
 
- [lsaravia\@campus.ungs.edu.ar]{.ul}
+ [lsaravia@campus.ungs.edu.ar]{.ul}
 
  Universidad Nacional de General Sarmiento
 
@@ -31,32 +30,7 @@
 
 ## Abstract
 
- Ecosystem sustainable use requires reliable information about its
- biotic and abiotic structure and functioning. Accurate knowledge of
- trophic relations is central for the understanding of ecosystem
- dynamics, which in turn, is essential for food web stability analyzes
- and the development of sustainable practices. There is a rapid growth
- in the knowledge on how belowground biodiversity regulates the
- structure and functioning of terrestrial ecosystems. Although, the
- available information about trophic relationships is hard to find and
- fragmented. This gathering the information available worldwide about
- the food resources of soil mesofauna. From the 3105 hits of the
- initial search on food resources of soil microarthropods, only a total
- of 195 published works related particular species, genera, and
- families to particular trophic resources, the majority of them dealing
- with soils of the Palearctic region. From the 195 publications we
- extracted 3009 records relating specific taxonomic groups to their
- trophic resources, 20% mention saprophytic fungi as a food resource,
- 16% cite microfauna, 11% mention bacteria, 10% litter and 5% cite
- Mycorrhizal fungi. The available information was highly skewed, the
- 73.71% comes from Acari, and within these, 50.62% correspond just to
- Sarcoptiformes. For Collembola, the literature is scarce, the majority
- coming from Arthropleona. This review highlights the general lack of
- information relating species, genera, and families of the soil
- mesofauna to specific trophic resources. It also highlights that
- available research mostly comes from European sites, with the use of
- trophic resources by the mesofauna of the majority of the soils in
- other parts of the world still largely unknown.
+Ecosystem sustainable use requires reliable information about its biotic and abiotic structure and functioning. Accurate knowledge of trophic relations is central for the understanding of ecosystem dynamics, which in turn, is essential for food web stability analyzes and the development of sustainable practices. There is a rapid growth in the knowledge on how belowground biodiversity regulates the structure and functioning of terrestrial ecosystems. Although, the available information about trophic relationships is hard to find and fragmented. This gathering the information available worldwide about the food resources of soil mesofauna. From the 3105 hits of the initial search on food resources of soil microarthropods, only a total of 196 published works related particular species, genera, and families to particular trophic resources, the majority of them dealing with soils of the Palearctic region. From the 196 publications we extracted 3009 records relating specific taxonomic groups to their trophic resources, 20% mention saprophytic fungi as a food resource, 16% cite microfauna, 11% mention bacteria, 10% litter and 5% cite Mycorrhizal fungi. The available information was highly skewed, the 73.71% comes from Acari, and within these, 50.62% correspond just to Sarcoptiformes. For Collembola, the literature is scarce, the majority coming from Arthropleona. This review highlights the general lack of information relating species, genera, and families of the soil mesofauna to specific trophic resources. It also highlights that available research mostly comes from European sites, with the use of trophic resources by the mesofauna of the majority of the soils in other parts of the world still largely unknown.
 
  **Keywords**: food web; trophic ecology; soil mesofauna; Acari;
  Collembola
@@ -64,8 +38,7 @@
 ## Introduction 
 
  Only in the last few decades, sustainable use of the soil has come
- sharply into focus. The Ecosystem Millennium Assessment (2005), the
- report on Global Biodiversity and Ecosystem Services (IPBES, 2019),
+ sharply into focus. The report on Global Biodiversity and Ecosystem Services (IPBES, 2019),
  and the recent State of Knowledge of Soil Biodiversity (FAO, 2020)
  clearly state the importance of the soil ecosystem and the central
  role that soil biodiversity plays on ecosystem services. However,
@@ -131,11 +104,11 @@
 
  This review gathers the information currently available regarding the
  use of trophic resources by the edaphic microarthropods. This
- information, together with other characteristic features of the soil
+ information, together with other characteristic features of the soil
  microarthropods, will allow building a food web interactions network,
  that could result in a better understanding of the structure and
  functioning of the edaphic biota (FAO, 2020). Trophic networks will,
- in turn, allow for comparing the state of different soils, or the same
+ in turn, allow for comparing the state of different soils, or the same
  soils under different intensities of anthropic impact (Thompson et
  al., 2012).
 
@@ -156,8 +129,8 @@
 
 ### Empirical evidence
 
- The empirical evidence provided through studies carried out under
- laboratory conditions (A) can be based on **observations** of the
+The empirical evidence provided through studies carried out under  <!-- Esto es un comentario -->
+ laboratory conditions (A) can be based on **observations** of the 
  feeding behavior of the animals under study, on studying **food
  preferences,** or **tests** to study other interactions or biological
  phenomena related to diet, in general, the tests they are made using
@@ -249,9 +222,9 @@
  microarthropods to trophic resources (425 titles). From these, we
  selected those papers that effectively mention families, genera, or
  species of soil mites and springtails, relating them with at least one
- trophic resource. This resulted in 195 publications, which can be
+ trophic resource. This resulted in 196 publications, which can be
  consulted in Electronic Supplementary Material I (ESM I). All the
- microarthropods recorded in the 195 publications cited can be found in
+ microarthropods recorded in the 196 publications cited can be found in
  ESM II, which is cross-referenced with ESM I. A flow diagram of the
  bibliography search and selection procedure is also provided as ESM
  III.
@@ -260,16 +233,11 @@
 
 The empirical evidence provides information on the trophic relationships of these animals in different ways: some publications relate the taxa to food items and others group them into guilds or trophic categories. To deal with this heterogeneity, it was necessary to define the trophic resources (Table 1) that summarize their trophic and ecological characteristics in the edaphic ecosystem (Berg & McClaugherty 2008; Clark 1971; Warcup 1971; Ponge 1991; Persson et al. 1980; Krantz et al. 2009; Chernova et al. 2007; Rusek 1998; Schneider et. Al. 2005).
 
-We associate taxa and those resources, so that: a- if the publication indicated a food item it was assigned to a trophic resource in which it is defined, 
-b- or if the taxa are grouped in some guild or trophic category, then each taxon was assigned the typical resources consumed by that category.
+We associate taxa and those resources, so that: a) if the publication indicated a food item it was assigned to a trophic resource in which it is defined, 
+b) or if the taxa are grouped in some guild or trophic category, then each taxon was assigned the typical resources consumed by that category.
 
- Based on this allocation strategy, we developed a database presented
- in Supplementary material II. The taxonomic information and the
- trophic resources were obtained from the different sections of the
- publications and their appendices (Thakur et al., 2020). In a
- complementary way, each taxon found has all the classification levels
- according to Krantz 2009 and Hopkin 2007, for mites and springtails
- respectively.
+Based on this allocation strategy, we developed a database presented in Supplementary material II. The taxonomic information and the trophic resources were obtained from the different sections of the publications and their appendices (Thakur et al., 2020). In a complementary way, each taxon found has all the classification levels according to Krantz 2009 and Hopkin 2007, for mites and springtails respectively. The database is also available in the github repository <https://github.com/EcoComplex/TrophicResources> and Zenodo <https://zenodo.org/record/XXXXXXX>.
+
 
 ### Data analysis
 
@@ -298,21 +266,21 @@ b- or if the taxa are grouped in some guild or trophic category, then each taxon
  by the sum of the resources used by the lower taxonomic levels.
 
  The calculations, graphs, and tables were prepared using Microsoft
- Excel and R Statistical software version 4.1.2 (R Core Team 2021).
+ Excel and R Statistical software version 4.1.2 (R Core Team 2021), the source code is available at Github <https://github.com/EcoComplex/TrophicResources> and Zenodo <https://zenodo.org/record/XXXXXXX>..
 
 ## Results
 
- From the 3105 papers initially recovered with the searches, 195 papers
- were found to meet our criteria (see ESM III). A total of 132 articles
- from the 195 selected publications (ESM I) mention the countries in
+ From the 3105 papers initially recovered with the searches, 196 papers
+ were found to meet our criteria (see ESM III). A total of 133 articles
+ from the 196 selected publications (ESM I) mention the countries in
  which the studies were carried out. Of these, 1 article belongs to the
  Ethiopian region, 3 to the Neotropical region, 3 to the Oriental
- region, 7 to the Australian region, 34 to the Nearctic region, 74 are
+ region, 7 to the Australian region, 34 to the Nearctic region, 75 are
  all located in the Palearctic region, and the remaining 10 are from
  the Antarctic region. (Figure 1). This is important to highlight
  because the species strongly vary depending on the biogeographic
- region. There are 105 publications mentioning the environments in
- which the studies were conducted; from these 58 were temperate
+ region. There are 106 publications mentioning the environments in
+ which the studies were conducted; from these 59 were temperate
  forests, 3 tropical forests, 21 grasslands, 23 agroecosystems, and 11
  deserts.
 
@@ -321,13 +289,8 @@ b- or if the taxa are grouped in some guild or trophic category, then each taxon
  and the United States.](Figures/world_records.png){width="5.0in"
  height="2.5194444444444444in"}
 
- We obtained a total of 3009 records about trophic relationships (ESM
- II), with Acari contributing with 2218 records (73,71%), and within
- this number, the majority (50.63%) correspond to Sarcoptiformes. At
- the species level, 168 records were Collembola, and 422 records were
- Acari. At the genus level, 572 records were found. The family level
- adds 210 records with 51 different families out of the total of 161
- families identified in this review.
+We obtained a total of 3015 records on trophic relationships (ESM II), with Acari contributing 2218 records (73.57%), and within this number, the majority (50.86%) corresponds to Sarcoptiformes. According to the taxonomic resolution, data of 170 species, 30 genera and 2 families of Collembola and 412 species, 131 genera and 49 families of Acari were obtained.
+
 
 ### Methods used for trophic resources identification
 
@@ -337,7 +300,7 @@ b- or if the taxa are grouped in some guild or trophic category, then each taxon
  empirical evidence from the database with 706 records (Figure 2).
 
 
-![Methods used in the literature to assign trophic resources to soil mesofauna taxa. Colors within columns refer to the number of different taxonomic levels for which each method assigned at least one resource. Assay: laboratory tests and observations. Isotopes: stable isotopes. Gut: intestinal content. Enzymes: Digestive enzymes. Mouth: mouthparts morphology. Lipid: lipid profile. Mo. det: molecular detection of intestinal content, f.p.: Food preference assays. Obs.: direct lab observations of feeding activity. Reviews: general reviews by other authors.](Figures/Metodo_ByTaxLevel.jpeg){width="4.920138888888889in"
+![Methods used in the literature to assign trophic resources to soil mesofauna taxa. Colors within columns refer to the number of different taxonomic levels for which each method assigned at least one resource. Assay: laboratory tests and observations. Isotopes: stable isotopes. Gut: intestinal content. Enzymes: Digestive enzymes. Mouth: mouthparts morphology. Lipid: lipid profile. Mo. det: molecular detection of intestinal content, f.p.: Food preference assays. Obs.: direct lab observations of feeding activity. Reviews: general reviews by other authors.](Figures/Metodo_ByTaxLevel.png){width="4.920138888888889in"
  height="4.920138888888889in"}
 
  Microarthropods at the family level constitute 9.3% of the
@@ -367,7 +330,7 @@ b- or if the taxa are grouped in some guild or trophic category, then each taxon
  and the use of mouthpart structures (64 records).
 
  Intestinal contents analyses with molecular techniques for the
- detection of DNA is a tool of recent development and represent 0.8% of
+ detection of DNA is a tool of recent development and represent 2% of
  the total records.
 
 #### Resources identified by empirical evidence
@@ -379,10 +342,9 @@ b- or if the taxa are grouped in some guild or trophic category, then each taxon
  higher number of records have been taken to the species level. For
  instance, 592 trophic records are associated with saprophytic fungi
  consumption, of which 16 were associated with the taxonomic level of
- the family, 105 to the genus level, and 471 to the species level.
+ the family, 105 to the genus level, and 474 to the species level.
 
-![The number of records in the literature assigning each one of the 13 trophic resources to a mesofauna taxon as shown in Table 1. Colors in the columns refer to the method used to assign those trophic resources to a particular taxon. Methods as in Fig. 2.](Figures/Recursos_ByMetodo.jpeg){width="5.116666666666666in"
- height="5.116666666666666in"}
+![The number of records in the literature assigning each one of the 13 trophic resources to a mesofauna taxon as shown in Table 1. Colors in the columns refer to the method used to assign those trophic resources to a particular taxon. Methods as in Fig. 2.](Figures/Recursos_ByMetodo.png){width="5.116666666666666in" height="5.116666666666666in"}
 
  Laboratory observations (the most used method), mention the use of the
  thirteen trophic resources (Figure 3) in which the order of importance
@@ -391,11 +353,7 @@ b- or if the taxa are grouped in some guild or trophic category, then each taxon
  larvae of invertebrates that accumulate 82.3%. For this empirical
  method, the main resources correspond to typical resources of
  predatory animals except for saprophytic fungi, the main taxa
- mentioned is Mesostigmata. Figure 3 also shows (in colors) that the
- most important methods used for resource assignment, according to the
- number of citations in the bibliography, was: direct observations (706
- records) \> gut contents (639) \> isotopes (591) \> lab assays (503)
- \> enzymes (178) \> feeding preference assays (131 records).
+ mentioned is Mesostigmata. The stacked bars (Figure 3) show the different proportions in which the methods provide evidence of the use of a resource, if the contribution of each method is considered according to the number of citations in the bibliography, they are counted in decreasing order: direct observations (706 records) > intestinal content (639) > isotopes (591) > laboratory tests (503) > enzymes (178) > food preference tests (131 records). 
 
  The methodologies that use laboratory studies, i.e. laboratory tests,
  laboratory observations, and food preference tests, provide direct
@@ -405,6 +363,7 @@ b- or if the taxa are grouped in some guild or trophic category, then each taxon
  resources, springtails - mites - invertebrate larvae - invertebrate
  eggs - enchytraeids, as food resources. These methods rarely mention
  the consumption of Mycorrhizal fungi and rarely the use of humus.
+
 
 ### Use of trophic resources by soil microarthropods
 
@@ -439,7 +398,7 @@ b- or if the taxa are grouped in some guild or trophic category, then each taxon
 The empirical evidence that addresses the trophic study of Arthropleona (Collembola) is represented by 154 different species, these were mainly associated with saprophytic fungi (119 species), followed in importance by bacteria, litter and humus. The microfauna is mentioned as a resource for 39 species.
 
 
-![Bipartite graph showing the use of trophic resources by the main orders of Acari and Collembola. Upper nodes: Acari and Collembola orders as in Table 2. Lower nodes: trophic resources. The thickness and intensity of the lines give an idea of the proportion of mentions in the available literature about their use of trophic resources. Resource names as in Tables 1 and 2.](Figures/Bi_Orden_Recurso.jpeg){width="5.4125in"
+![Bipartite graph showing the use of trophic resources by the main orders of Acari and Collembola. Upper nodes: Acari and Collembola orders as in Table 2. Lower nodes: trophic resources. The thickness and intensity of the lines give an idea of the proportion of mentions in the available literature about their use of trophic resources. Resource names as in Tables 1 and 2.](Figures/Bi_Orden_Recurso.png){width="5.4125in"
  height="3.6083333333333334in"}
 
  Figure 4 presents the proportion of resources used by the main 3 mite
@@ -499,8 +458,7 @@ The empirical evidence that addresses the trophic study of Arthropleona (Collemb
  al., 2019; Ruess and Chamberlain, 2010).
 
  It is also to be noted that the information available for Acari and
- Collembola is strongly asymmetric, corresponding mainly to Acari,
- order Sarcoptiformes.
+ Collembola is strongly asymmetric, corresponding mainly to the order Sarcoptiformes in Acari and to Arthropleona in Collembola.
 
  Despite the increasing amount of descriptive works and lists of
  taxonomic groups, the information available worldwide is still largely
@@ -515,11 +473,7 @@ The empirical evidence that addresses the trophic study of Arthropleona (Collemb
  will be like by higher-level taxonomic groups (Bedano, 2007; Potapov
  et al. 2020).
 
- This information must be interpreted with caution, however, because
- within a taxonomic category, each species could apply different
- strategies to the problem of exploiting resources (Lavelle and Spain,
- 2001; Moore et al.,1988), as many taxa in the available literature are
- considered to be general consumers.
+However, this information must be interpreted with caution, because within a taxonomic category each species could apply different strategies when exploiting food resources (Lavelle and Spain, 2001; Moore et al., 1988), although the taxa treated here are considered generalist consumers, recently the term "choosy generalist" was suggested as the behavior that characterizes consumers that inhabit soils (Potapov et al. 2022)
 
  The results presented here provide valuable new information about the
  different feeding strategies of the main groups of the soil
@@ -589,17 +543,16 @@ The empirical evidence that addresses the trophic study of Arthropleona (Collemb
 
  Behan-Pelletier V, Newton G., 1999. Linking soil biodiversity and
  ecosystem function. The taxonomic dilemma. BioScience 2.
- [[https://doi.org/10.2307/1313540]{.ul}](https://doi.org/10.2307/1313540).
+ [[https://doi.org/10.2307/1313540]](https://doi.org/10.2307/1313540).
 
  Bellinger PF, Christiansen KA, Janssens F., 2020. Internet resource
  available from:
- [[http://www.collembola.org]{.ul}](http://www.collembola.org/). Last
+ [[http://www.collembola.org]](http://www.collembola.org/). Last
  updated: November 30, 2020. Last accessed: December 23, 2020.
 
  Berg, M.P., Stoffer, M., van den Heuvel, H. 2004. Feeding guilds in
  Collembola based on digestive enzymes. Pedobiologia 48, 589-601. DOI:
- [[\
- 10.1016/j.pedobi.2004.07.006]{.ul}](http://dx.doi.org/10.1016%2Fj.pedobi.2004.07.006)
+ [[\10.1016/j.pedobi.2004.07.006]](http://dx.doi.org/10.1016%2Fj.pedobi.2004.07.006)
 
  Berg B, McClaugherty C., 2008. Plant litter: decomposition, humus
  formation, carbon sequestration, 2nd. ed. Springer, Berlin.
@@ -609,7 +562,7 @@ The empirical evidence that addresses the trophic study of Arthropleona (Collemb
 
  Briones MJI., 2014. Soil fauna and soil functions: a jigsaw puzzle.
  Front. Environ. Sci. 2, 1--22.
- https://doi.org/10.3389/fenvs.2014.00007
+ <https://doi.org/10.3389/fenvs.2014.00007>
 
  Brussaard L., 1977. Biodiversity and Ecosystem Functioning in Soil.
  Ambio. 26, 563--570.
@@ -617,7 +570,7 @@ The empirical evidence that addresses the trophic study of Arthropleona (Collemb
  Buryn R, Brandl R., 1992. Are the morphometrics of chelicerae
  correlated with diet in mesostigmatid mites (Acari)? Exp. Appl.
  Acarol. 14, 67--82.
- [[https://doi.org/10.1007/BF01205353]{.ul}](https://doi.org/10.1007/BF01205353)
+ [[https://doi.org/10.1007/BF01205353]](https://doi.org/10.1007/BF01205353)
 
  Chamberlain, P. M., Bull, I. D., Black, H. I. J., Ineson, P., &
  Evershed, R. P. (2006). Collembolan trophic preferences determined
@@ -628,7 +581,7 @@ The empirical evidence that addresses the trophic study of Arthropleona (Collemb
  2007. Zoophagy in Collembola. Entomol. Rev. 87, 799--811.
  https://doi.org/10.1134/S0013873807070020
 
- Clark FE., 1971. Bacterios del Suelo, In: Burges, A., Raw, F. (Eds.),
+ Clark FE., 1971. Bacterias del Suelo, In: Burges, A., Raw, F. (Eds.),
  Biología del Suelo, Chapter 2. Ediciones Omega, Barcelona. pp. 27--68.
 
  Cragg RG, Bardgett RD., 2001. How changes in soil faunal diversity and
@@ -657,9 +610,9 @@ The empirical evidence that addresses the trophic study of Arthropleona (Collemb
  Lawton JH, Lodge DM, Loreau M, Naeem S, Schmid B, La HS, Symstad AJ,
  Vandermeer J, Wardle DA., 2005. Effects of biodiversity on ecosystem
  functioning: A consensus of current knowledge. Ecol. Monogr. 75, 33.
- [[https://doi.org/10.1890/04-0922]{.ul}](https://doi.org/10.1890/04-0922)
+ [[https://doi.org/10.1890/04-0922]](https://doi.org/10.1890/04-0922)
 
- Hopkin, S. P. (1997). Biology of the springtails: (Insecta:
+ Hopkin, S. P. (1997). Biology of the springtails: (Insecta:
  Collembola). Oxford University Press. Oxford, UK. 340 pp.
 
  Hubert J, Žilová M, Pekár, S., 2001. Feeding preferences and gut
@@ -742,7 +695,7 @@ The empirical evidence that addresses the trophic study of Arthropleona (Collemb
  M., 2014. Current use of and future needs for soil invertebrate
  functional traits in community ecology. Basic Appl. Ecol. 15,
  194--206.
- [[https://doi.org/10.1016/j.baae.2014.03.007]{.ul}](https://doi.org/10.1016/j.baae.2014.03.007).
+ [[https://doi.org/10.1016/j.baae.2014.03.007]](https://doi.org/10.1016/j.baae.2014.03.007).
 
  Pautasso, M. (2013). Ten simple rules for writing a literature review.
  *PLoS computational biology*, *9*(7), e1003149.
@@ -750,7 +703,7 @@ The empirical evidence that addresses the trophic study of Arthropleona (Collemb
  Pollierer MM, Scheu S, Haubert D., 2010. Taking it to the next level:
  Trophic transfer of marker fatty acids from basal resource to
  predators. Soil Biol. Biochem. 42, 919--925.
- [[https://doi.org/10.1016/j.soilbio.2010.02.008]{.ul}](https://doi.org/10.1016/j.soilbio.2010.02.008)
+ [[https://doi.org/10.1016/j.soilbio.2010.02.008]](https://doi.org/10.1016/j.soilbio.2010.02.008)
 
  Pollierer, M. M., & Scheu, S. (2021). Stable isotopes of amino acids
  indicate that soil decomposer microarthropods predominantly feed on
@@ -763,18 +716,20 @@ The empirical evidence that addresses the trophic study of Arthropleona (Collemb
 
  Ponge JF., 1991. Food resources and diets of soil animals in a small
  area of Scots pine litter. Geoderma. 49, 33--62.
- https://doi.org/10.1016/0016-7061(91)90090-G
+ <https://doi.org/10.1016/0016-7061(91)90090-G>
+
+ Potapov AM, Beaulieu F, Birrkhofer K, Bluhm SL, Degtyarev MI, Devetter M, Goncharov AA, Gongalsky KB, Klarner B, Korobushkin DI, Liebke DF, Maraun M, Mc Donnell RJ, Pollierer MM, Schaefer I, Shrubovych J, Semenyuk I I, Sendra A, Tuma J, Tůmová M, Vassilieva AB, Chen T, Geisen S, Schmidt O, Tiunov AV, Scheu S. 2022. Feeding habits and multifunctional classification of soil-associated consumers from protists to vertebrates. Biological Reviews <https://doi.org/10.1111/brv.12832>
 
  Potapov AM, Pollierer MM, Salmon S, Šustr V, Chen TW., 2020.
  Multidimensional trophic niche approach: gut content, digestive
  enzymes, fatty acids, and stable isotopes in Collembola. bioRxiv
  2020.05.15.098228.
- [[https://doi.org/10.1101/2020.05.15.098228]{.ul}](https://doi.org/10.1101/2020.05.15.098228)
+ [[https://doi.org/10.1101/2020.05.15.098228]](https://doi.org/10.1101/2020.05.15.098228)
 
  Potapov AM, Tiunov AV, Scheu S., 2019. Uncovering trophic positions
  and food resources of soil animals using bulk natural stable isotope
  composition: Stable isotopes in soil food web studies. Biol. Rev. 94,
- 37--59. [https://doi.org/10.1111/brv.12434]{.ul}
+ 37--59. [https://doi.org/10.1111/brv.12434]
 
  R Core Team (2021). R: A language and environment for statistical
  computing. R Foundation for Statistical Computing, Vienna, Austria.
@@ -805,7 +760,7 @@ The empirical evidence that addresses the trophic study of Arthropleona (Collemb
  Pedobiologia. 31, 355--379.
 
  Schmidt KH., 2020. Internet resource available from:
- [[http://miteresearch.org]{.ul}](http://miteresearch.org/). Last
+ [[http://miteresearch.org]](http://miteresearch.org/). Last
  accessed: December 23, 2020.
 
  Schneider K., 2005. Feeding biology and diversity of oribatid mites
@@ -875,52 +830,44 @@ The empirical evidence that addresses the trophic study of Arthropleona (Collemb
  Biología del Suelo. Chapter 3. Ediciones Omega, Barcelona. pp. 27--68.
 
 \newpage
-\blandscape
 
-## Figures and Tables
+## Tables
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Trophic Resource**        **Description**                                                                                            **Number of consumer records**                                                                  
--------------------------- ---------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------- -------- --------- ---------
-                                                                                                                                      Total allocations by trophic resource, absolute values (percentage values)   Family   Genera    Species
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Trophic Resource**        **Description**                                                                                            **Total consumer records (%)**    Family   Genera    Species                    
+-------------------------- ---------------------------------------------------------------------------------------------------------- --------------------------------- -------- --------- ---------
+**Saprophytic fungi**      They are ubiquitous soil fungi that break down organic matter.^c^                                          **595 (19,7)**                    **16**   **105**   **474**
+                                                                                                                                                                                           
+**Microfauna**             Soil nematodes and protozoa, tardigrades, rotifers, and other edaphic microfauna.^e^                       **468 (15,6)**                    **34**   **140**   **294**
+                                                                                                                                                                                           
+**Bacteria**               They include bacteria with enormous autotrophic and heterotrophic capacities.^b^                           **325 (10,8)**                    **7**    **63**    **255**
+                                                                                                                                                                                           
+**Litter**                 Dead plant tissue accumulated in the soil with different degrees of fragmentation and decomposition.^a^    **311 (10,3)**                    **4**    **30**    **277**
+                                                                                                                                                                                           
+**Mycorrhizal fungi**      Symbiotic fungal hyphae with plant roots. ^i^                                                              **152 (4,9)**                     **6**    **19**    **127**
+                                                                                                                                                                                           
+**Plant tissue**           Includes non-vascular plants (mosses, lichens, etc.), live roots, and seedlings.                           **199 (6,6)**                     **2**    **25**    **172**
+                                                                                                                                                                                           
+**Springtails**            Juvenile and adult springtails.                                                                            **246 (8,2)**                     **50**   **58**    **138**
+                                                                                                                                                                                           
+**Mites**                  Soft-bodied, non-sclerotic, unshielded, or juvenile mites.^f^                                              **193 (6,4)**                     **40**   **37**    **116**
+                                                                                                                                                                                           
+**Larvae**                 Soft-bodied invertebrate larvae.                                                                           **86 (2,9)**                      **15**   **20**    **51**
+                                                                                                                                                                                           
+**Humus**                  Complex and amorphous organic matter with a high degree of decomposition: debris, fecal pellets, etc.^d^   **121 (4)**                       **2**    **8**     **111**
+                                                                                                                                                                                           
+**Invertebrate eggs**      Invertebrate eggs consumed by predators.^g^                                                                **103 (3,4)**                     **13**   **24**    **66**
+                                                                                                                                                                                           
+**Enchytraeids**           Anatomically homogeneous, soft-bodied oligochaete annelids.^c^                                             **97 (3,2)**                      **11**   **30**    **56**
+                                                                                                                                                                                           
+**Invertebrate carrion**   Animal tissue, molts, invertebrate corpses, etc.^h^                                                        **119 (3,9)**                     **10**   **13**    **96**
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Saprophytic fungi**      They are ubiquitous soil fungi that break down organic matter.^c^                                          **592 (19,7)**                                                               **16**   **105**   **471**
-                                                                                                                                                                                                                                      
-**Microfauna**             Soil nematodes and protozoa, tardigrades, rotifers, and other edaphic microfauna.^e^                       **468 (15,6)**                                                               **34**   **140**   **294**
-                                                                                                                                                                                                                                      
-**Bacteria**               They include bacteria with enormous autotrophic and heterotrophic capacities.^b^                           **325 (10,8)**                                                               **7**    **63**    **255**
-                                                                                                                                                                                                                                      
-**Litter**                 Dead plant tissue accumulated in the soil with different degrees of fragmentation and decomposition.^a^    **311 (10,3)**                                                               **4**    **30**    **277**
-                                                                                                                                                                                                                                      
-**Mycorrhizal fungi**      Symbiotic fungal hyphae with plant roots. ^i^                                                              **149 (4,9)**                                                                **6**    **19**    **124**
-                                                                                                                                                                                                                                      
-**Plant tissue**           Includes non-vascular plants (mosses, lichens, etc.), live roots, and seedlings.                           **199 (6,6)**                                                                **2**    **25**    **172**
-                                                                                                                                                                                                                                      
-**Springtails**            Juvenile and adult springtails.                                                                            **246 (8,2)**                                                                **50**   **58**    **138**
-                                                                                                                                                                                                                                      
-**Mites**                  Soft-bodied, non-sclerotic, unshielded, or juvenile mites.^f^                                              **193 (6,4)**                                                                **40**   **37**    **116**
-                                                                                                                                                                                                                                      
-**Larvae**                 Soft-bodied invertebrate larvae.                                                                           **86 (2,9)**                                                                 **15**   **20**    **51**
-                                                                                                                                                                                                                                      
-**Humus**                  Complex and amorphous organic matter with a high degree of decomposition: debris, fecal pellets, etc.^d^   **121 (4)**                                                                  **2**    **8**     **111**
-                                                                                                                                                                                                                                      
-**Invertebrate eggs**      Invertebrate eggs consumed by predators.^g^                                                                **103 (3,4)**                                                                **13**   **24**    **66**
-                                                                                                                                                                                                                                      
-**Enchytraeids**           Anatomically homogeneous, soft-bodied oligochaete annelids.^c^                                             **97 (3,2)**                                                                 **11**   **30**    **56**
-                                                                                                                                                                                                                                      
-**Invertebrate carrion**   Animal tissue, molts, invertebrate corpses, etc.^h^                                                        **119 (3,9)**                                                                **10**   **13**    **96**
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Table: Basic description of trophic resources. Total allocations by
-trophic resource, absolute values (percentage values). The number of
-mentions of a trophic resource for the level of taxonomic resolution.
-^1^Supplementary material II ^2^Supplementary material I ^a^Berg &
-McClaugherty 2008 ^b^Clark 1971 ^c^Warcup 1971 ^d^Ponge 1991
-^e^Persson et al. 1980 ^f^Krantz & Walter 2009 ^g^Chernova et al. 2007
-^h^Rusek 1998 ^i^Schneider et al. 2005
-
+Table: Basic description of trophic resources. Total records of consumers by trophic resource with absolute values and percentages;   and the number of records by taxonomic resolution.^a^Berg & McClaugherty 2008 ^b^Clark 1971 ^c^Warcup 1971 ^d^Ponge 1991
+^e^Persson et al. 1980 ^f^Krantz & Walter 2009 ^g^Chernova et al. 2007 ^h^Rusek 1998 ^i^Schneider et al. 2005
 
 \newpage
+\blandscape
 
 \begin{longtable}[]{@{}lcccccccccccccccccc@{}}
 \caption{Breakdown of resources by Nested boxes represent the main orders of Acari and Collembola. In parentheses is the total number of taxa for the taxonomic category. Within the cells, the number of taxa associated with the trophic resource is shown. M: Mesostigmata, S: Sarcoptiformes, T: Trombidiformes, A: Arthropleona, N: Neelipleona, Sy: Symphypleona.}\\
@@ -943,10 +890,10 @@ McClaugherty 2008 ^b^Clark 1971 ^c^Warcup 1971 ^d^Ponge 1991
 \vtop{\hbox{\strut M}\hbox{\strut (136)}} &
 \vtop{\hbox{\strut S}\hbox{\strut (264)}} &
 \vtop{\hbox{\strut T}\hbox{\strut (22)}} &
-\vtop{\hbox{\strut A}\hbox{\strut (154)}} &
+\vtop{\hbox{\strut A}\hbox{\strut (155)}} &
 \vtop{\hbox{\strut N}\hbox{\strut (1)}} &
 \vtop{\hbox{\strut Sy}\hbox{\strut (13)}} \\ \addlinespace
-\textbf{Saprophytic fungi} & 7 & 68 & 10 & 9 & 1 & 2 & 11 & 119 & 10 &
+\textbf{Saprophytic fungi} & 7 & 68 & 10 & 9 & 1 & 2 & 11 & 120 & 10 &
 54 & 1 & 7 & 7 & 160 & 3 & 119 & 1 & 8 \\ \addlinespace
 \textbf{Microfauna} & 32 & 26 & 23 & 8 & 0 & 0 & 80 & 40 & 4 & 33 & 0 &
 0 & 106 & 47 & 0 & 39 & 0 & 0 \\ \addlinespace
@@ -955,7 +902,7 @@ McClaugherty 2008 ^b^Clark 1971 ^c^Warcup 1971 ^d^Ponge 1991
 \textbf{Litter} & 0 & 43 & 0 & 8 & 1 & 3 & 0 & 79 & 0 & 35 & 1 & 6 & 0 &
 124 & 0 & 59 & 1 & 5 \\ \addlinespace
 \textbf{Mycorrhizal fungi} & 2 & 31 & 3 & 7 & 0 & 1 & 1 & 44 & 0 & 28 &
-0 & 2 & 0 & 54 & 0 & 45 & 0 & 2 \\ \addlinespace
+0 & 2 & 0 & 54 & 0 & 46 & 0 & 2 \\ \addlinespace
 \textbf{Plant tissue} & 0 & 42 & 5 & 7 & 0 & 2 & 0 & 72 & 4 & 20 & 0 & 7
 & 0 & 100 & 3 & 26 & 0 & 7 \\ \addlinespace
 \textbf{Springtails} & 24 & 0 & 27 & 2 & 0 & 0 & 53 & 0 & 13 & 3 & 0 & 0
@@ -981,7 +928,7 @@ McClaugherty 2008 ^b^Clark 1971 ^c^Warcup 1971 ^d^Ponge 1991
 \newpage
 
 
-**[Supplementary Material Captions]{.ul}**
+**[Supplementary Material Captions]**
 
  Electronic Supplementary Material I (ESM I): Complete list of
  bibliographic sources that relate specific taxa to a particular
