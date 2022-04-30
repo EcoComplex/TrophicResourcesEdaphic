@@ -16,13 +16,6 @@
 
  Dr. Leonardo A. Saravia
 
- [lsaravia@campus.ungs.edu.ar]{.ul}
-
- Universidad Nacional de General Sarmiento
-
- J.M. Gutierrez 1159 (1613) Los Polvorines
-
- Buenos Aires Argentina
 
  Author contributions: LF and LS originally formulated the idea, NV, CC
  developed the methodology, NV, CC, LF, and LS analyzed the data and
@@ -238,6 +231,38 @@ b) or if the taxa are grouped in some guild or trophic category, then each taxon
 
 Based on this allocation strategy, we developed a database presented in Supplementary material II. The taxonomic information and the trophic resources were obtained from the different sections of the publications and their appendices (Thakur et al., 2020). In a complementary way, each taxon found has all the classification levels according to Krantz 2009 and Hopkin 2007, for mites and springtails respectively. The database is also available in the github repository <https://github.com/EcoComplex/TrophicResources> and Zenodo <https://zenodo.org/record/XXXXXXX>.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Trophic Resource**        **Description**                                                                                            **Total consumer records (%)**    Family   Genera    Species                    
+-------------------------- ---------------------------------------------------------------------------------------------------------- --------------------------------- -------- --------- ---------
+**Saprophytic fungi**      They are ubiquitous soil fungi that break down organic matter.^c^                                          **595 (19,7)**                    **16**   **105**   **474**
+                                                                                                                                                                                           
+**Microfauna**             Soil nematodes and protozoa, tardigrades, rotifers, and other edaphic microfauna.^e^                       **468 (15,6)**                    **34**   **140**   **294**
+                                                                                                                                                                                           
+**Bacteria**               They include bacteria with enormous autotrophic and heterotrophic capacities.^b^                           **325 (10,8)**                    **7**    **63**    **255**
+                                                                                                                                                                                           
+**Litter**                 Dead plant tissue accumulated in the soil with different degrees of fragmentation and decomposition.^a^    **311 (10,3)**                    **4**    **30**    **277**
+                                                                                                                                                                                           
+**Mycorrhizal fungi**      Symbiotic fungal hyphae with plant roots. ^i^                                                              **152 (4,9)**                     **6**    **19**    **127**
+                                                                                                                                                                                           
+**Plant tissue**           Includes non-vascular plants (mosses, lichens, etc.), live roots, and seedlings.                           **199 (6,6)**                     **2**    **25**    **172**
+                                                                                                                                                                                           
+**Springtails**            Juvenile and adult springtails.                                                                            **246 (8,2)**                     **50**   **58**    **138**
+                                                                                                                                                                                           
+**Mites**                  Soft-bodied, non-sclerotic, unshielded, or juvenile mites.^f^                                              **193 (6,4)**                     **40**   **37**    **116**
+                                                                                                                                                                                           
+**Larvae**                 Soft-bodied invertebrate larvae.                                                                           **86 (2,9)**                      **15**   **20**    **51**
+                                                                                                                                                                                           
+**Humus**                  Complex and amorphous organic matter with a high degree of decomposition: debris, fecal pellets, etc.^d^   **121 (4)**                       **2**    **8**     **111**
+                                                                                                                                                                                           
+**Invertebrate eggs**      Invertebrate eggs consumed by predators.^g^                                                                **103 (3,4)**                     **13**   **24**    **66**
+                                                                                                                                                                                           
+**Enchytraeids**           Anatomically homogeneous, soft-bodied oligochaete annelids.^c^                                             **97 (3,2)**                      **11**   **30**    **56**
+                                                                                                                                                                                           
+**Invertebrate carrion**   Animal tissue, molts, invertebrate corpses, etc.^h^                                                        **119 (3,9)**                     **10**   **13**    **96**
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Table: Basic description of trophic resources. Total records of consumers by trophic resource with absolute values and percentages;   and the number of records by taxonomic resolution.^a^Berg & McClaugherty 2008 ^b^Clark 1971 ^c^Warcup 1971 ^d^Ponge 1991
+^e^Persson et al. 1980 ^f^Krantz & Walter 2009 ^g^Chernova et al. 2007 ^h^Rusek 1998 ^i^Schneider et al. 2005
 
 ### Data analysis
 
@@ -828,39 +853,6 @@ However, this information must be interpreted with caution, because within a tax
 \newpage
 
 ## Tables
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Trophic Resource**        **Description**                                                                                            **Total consumer records (%)**    Family   Genera    Species                    
--------------------------- ---------------------------------------------------------------------------------------------------------- --------------------------------- -------- --------- ---------
-**Saprophytic fungi**      They are ubiquitous soil fungi that break down organic matter.^c^                                          **595 (19,7)**                    **16**   **105**   **474**
-                                                                                                                                                                                           
-**Microfauna**             Soil nematodes and protozoa, tardigrades, rotifers, and other edaphic microfauna.^e^                       **468 (15,6)**                    **34**   **140**   **294**
-                                                                                                                                                                                           
-**Bacteria**               They include bacteria with enormous autotrophic and heterotrophic capacities.^b^                           **325 (10,8)**                    **7**    **63**    **255**
-                                                                                                                                                                                           
-**Litter**                 Dead plant tissue accumulated in the soil with different degrees of fragmentation and decomposition.^a^    **311 (10,3)**                    **4**    **30**    **277**
-                                                                                                                                                                                           
-**Mycorrhizal fungi**      Symbiotic fungal hyphae with plant roots. ^i^                                                              **152 (4,9)**                     **6**    **19**    **127**
-                                                                                                                                                                                           
-**Plant tissue**           Includes non-vascular plants (mosses, lichens, etc.), live roots, and seedlings.                           **199 (6,6)**                     **2**    **25**    **172**
-                                                                                                                                                                                           
-**Springtails**            Juvenile and adult springtails.                                                                            **246 (8,2)**                     **50**   **58**    **138**
-                                                                                                                                                                                           
-**Mites**                  Soft-bodied, non-sclerotic, unshielded, or juvenile mites.^f^                                              **193 (6,4)**                     **40**   **37**    **116**
-                                                                                                                                                                                           
-**Larvae**                 Soft-bodied invertebrate larvae.                                                                           **86 (2,9)**                      **15**   **20**    **51**
-                                                                                                                                                                                           
-**Humus**                  Complex and amorphous organic matter with a high degree of decomposition: debris, fecal pellets, etc.^d^   **121 (4)**                       **2**    **8**     **111**
-                                                                                                                                                                                           
-**Invertebrate eggs**      Invertebrate eggs consumed by predators.^g^                                                                **103 (3,4)**                     **13**   **24**    **66**
-                                                                                                                                                                                           
-**Enchytraeids**           Anatomically homogeneous, soft-bodied oligochaete annelids.^c^                                             **97 (3,2)**                      **11**   **30**    **56**
-                                                                                                                                                                                           
-**Invertebrate carrion**   Animal tissue, molts, invertebrate corpses, etc.^h^                                                        **119 (3,9)**                     **10**   **13**    **96**
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Table: Basic description of trophic resources. Total records of consumers by trophic resource with absolute values and percentages;   and the number of records by taxonomic resolution.^a^Berg & McClaugherty 2008 ^b^Clark 1971 ^c^Warcup 1971 ^d^Ponge 1991
-^e^Persson et al. 1980 ^f^Krantz & Walter 2009 ^g^Chernova et al. 2007 ^h^Rusek 1998 ^i^Schneider et al. 2005
 
 \newpage
 
