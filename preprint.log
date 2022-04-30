@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  30 APR 2022 15:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  30 APR 2022 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1265,7 +1265,7 @@ Overfull \hbox (0.20515pt too wide) in paragraph at lines 603--608
  []
 
 Runaway argument?
-height=2.51944in]{Figures/world_records.png} \caption {World map show\ETC.
+height=\textheight ]{figures/world_records.png} \caption {World map s\ETC.
 ! Paragraph ended before \Gin@iii was complete.
 <to be read again> 
                    \par 
@@ -1288,7 +1288,7 @@ You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Runaway argument?
-height=4.92014in]{Figures/Metodo_ByTaxLevel.png} \caption {Methods us\ETC.
+height=\textheight ]{figures/Metodo_ByTaxLevel.png} \caption {Methods\ETC.
 ! Paragraph ended before \Gin@iii was complete.
 <to be read again> 
                    \par 
@@ -1311,7 +1311,7 @@ You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Runaway argument?
-height=5.11667in]{Figures/Recursos_ByMetodo.png} \caption {The number\ETC.
+height=\textheight ]{figures/Recursos_ByMetodo.png} \caption {The num\ETC.
 ! Paragraph ended before \Gin@iii was complete.
 <to be read again> 
                    \par 
@@ -1334,7 +1334,7 @@ You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Runaway argument?
-height=3.60833in]{Figures/Bi_Orden_Recurso.png} \caption {Bipartite g\ETC.
+height=3.6in]{figures/Bi_Orden_Recurso.png} \caption {Bipartite graph\ETC.
 ! Paragraph ended before \Gin@iii was complete.
 <to be read again> 
                    \par 
