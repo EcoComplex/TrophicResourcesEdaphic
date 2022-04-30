@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  30 APR 2022 15:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  30 APR 2022 15:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -854,104 +854,112 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
  [3
 
 ] [4] [5]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.423 ...tures; the isotopic signature of \$\delta
+                                                  \$15N informs
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-! LaTeX Error: Unicode character δ (U+03B4)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.423 ... signatures; the isotopic signature of δ
-                                                  15N informs about the
-You may provide a definition with
-\DeclareUnicodeCharacter 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.432 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
 
-! LaTeX Error: Unicode character δ (U+03B4)
-               not set up for use with LaTeX.
+Overfull \hbox (1784.57986pt too wide) in paragraph at lines 421--432
+\T1/stix2/m/n/10.95 $$\LS1/stix2/m/it/10.95 ^^N\LS1/stix2/m/n/10.95 >15\LS1/sti
+x2/m/it/10.95 Ninformsaboutthetrophicleveloftheinvertebrateandthatof\LS1/stix2/
+m/n/10.95 >\LS1/stix2/m/it/10.95 ^^N\LS1/stix2/m/n/10.95 >13\LS1/stix2/m/it/10.
+95 Cwillindicatetheproportionoftrophicresourcesconsumed; butthepotentialtrophic
+resourcesneedtobechosenpreviouslytotheisotopicanalysis:\LS1/stix2/m/n/10.95 .\L
+S1/stix2/m/it/10.95 Tiunov\LS1/stix2/m/n/10.95 2007; \LS1/stix2/m/it/10.95 Mara
+unetal: \LS1/stix2/m/n/10.95 2011; \LS1/stix2/m/it/10.95 Potapov; Tiunov; andSc
+heu\LS1/stix2/m/n/10.95 2019; \LS1/stix2/m/it/10.95 Potapovetal: \LS1/stix2/m/n
+/10.95 2019/\LS1/stix2/m/it/10.95 also; thepotentialofthistoolissuchthatinferen
+cescanevenbemadeaboutthemetabolicpathwaysofbiomolecules\LS1/stix2/m/n/10.95 .\L
+S1/stix2/m/it/10.95 Polliereret:Al:\LS1/stix2/m/n/10.95 2019\LS1/stix2/m/it/10.
+95 ; Pollierer\LS1/stix2/m/n/10.95 �\LS1/stix2/m/it/10.95 Scheu\LS1/stix2/m/n/1
+0.95 2021; \LS1/stix2/m/it/10.95 Chamberlainet:Al:\LS1/stix2/m/n/10.95 2006/\LS
+1/stix2/m/it/10.95 :$  
+ []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.424 ... level of the invertebrate and that of δ
-                                                  13C will indicate the
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[6] [7] [8] [9]
+[6] [7] [8]
 \openout4 = `draft.fff'.
 
- (draft.fff) [10] [11] [12] [13] [14] [15] [16] [17] [18]
+ (draft.fff) [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
 [19] [20] [21]
-Overfull \hbox (12.5883pt too wide) in paragraph at lines 1193--1194
+Overfull \hbox (12.5883pt too wide) in paragraph at lines 1194--1195
  []\T1/stix2/m/n/10.95 Family| 
  []
 
 
-Overfull \hbox (14.04465pt too wide) in paragraph at lines 1195--1196
+Overfull \hbox (14.04465pt too wide) in paragraph at lines 1196--1197
  []\T1/stix2/m/n/10.95 Genera| 
  []
 
 
-Overfull \hbox (14.32936pt too wide) in paragraph at lines 1197--1198
+Overfull \hbox (14.32936pt too wide) in paragraph at lines 1198--1199
  []\T1/stix2/m/n/10.95 Species| 
  []
 
 
-Overfull \hbox (12.5883pt too wide) in paragraph at lines 1209--1210
+Overfull \hbox (12.5883pt too wide) in paragraph at lines 1210--1211
  []\T1/stix2/m/n/10.95 Family| 
  []
 
 
-Overfull \hbox (14.04465pt too wide) in paragraph at lines 1211--1212
+Overfull \hbox (14.04465pt too wide) in paragraph at lines 1212--1213
  []\T1/stix2/m/n/10.95 Genera| 
  []
 
 
-Overfull \hbox (14.32936pt too wide) in paragraph at lines 1213--1214
+Overfull \hbox (14.32936pt too wide) in paragraph at lines 1214--1215
  []\T1/stix2/m/n/10.95 Species| 
  []
 
 
-Overfull \hbox (7.21167pt too wide) in paragraph at lines 1218--1219
+Overfull \hbox (7.21167pt too wide) in paragraph at lines 1219--1220
 []\T1/stix2/b/n/10.95 Saprophytic 
  []
 
 
-Overfull \hbox (6.5656pt too wide) in paragraph at lines 1232--1233
+Overfull \hbox (6.5656pt too wide) in paragraph at lines 1233--1234
 []\T1/stix2/b/n/10.95 Microfauna|  
  []
 
 
-Overfull \hbox (9.50021pt too wide) in paragraph at lines 1274--1275
+Overfull \hbox (9.50021pt too wide) in paragraph at lines 1275--1276
 []\T1/stix2/b/n/10.95 Mycorrhizal 
  []
 
 
-Overfull \hbox (1.76952pt too wide) in paragraph at lines 1301--1302
+Overfull \hbox (1.76952pt too wide) in paragraph at lines 1302--1303
 []\T1/stix2/b/n/10.95 Springtails|  
  []
 
 
-Overfull \hbox (10.05862pt too wide) in paragraph at lines 1355--1356
+Overfull \hbox (10.05862pt too wide) in paragraph at lines 1356--1357
 []\T1/stix2/b/n/10.95 Invertebrate 
  []
 
 
-Overfull \hbox (13.77069pt too wide) in paragraph at lines 1368--1369
+Overfull \hbox (13.77069pt too wide) in paragraph at lines 1369--1370
 []\T1/stix2/b/n/10.95 Enchytraeids|  
  []
 
 
-Overfull \hbox (10.05862pt too wide) in paragraph at lines 1382--1383
+Overfull \hbox (10.05862pt too wide) in paragraph at lines 1383--1384
 []\T1/stix2/b/n/10.95 Invertebrate 
  []
 
 [22] [23]
 ! Undefined control sequence.
-l.1399 \blandscape
+l.1400 \blandscape
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -960,17 +968,17 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (155.96133pt too wide) in alignment at lines 1401--1406
+Overfull \hbox (155.96133pt too wide) in alignment at lines 1402--1407
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (155.96133pt too wide) in alignment at lines 1406--1452
+Overfull \hbox (155.96133pt too wide) in alignment at lines 1407--1453
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 ! Undefined control sequence.
-l.1454 \elandscape
+l.1455 \elandscape
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1056,7 +1064,7 @@ height=3.6in]{figures/Bi_Orden_Recurso.png} \caption {Bipartite graph\ETC.
 ! File ended while scanning use of \Gin@iii.
 <inserted text> 
                 \par 
-l.1470 \end{document}
+l.1471 \end{document}
                      
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1070,7 +1078,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1470 \end{document}
+l.1471 \end{document}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1083,7 +1091,7 @@ Package rerunfilecheck Info: File `draft.out' has not changed.
 ! You can't use `\end' in internal vertical mode.
 \enddocument ...cument/end}\deadcycles \z@ \@@end 
                                                   
-l.1470 \end{document}
+l.1471 \end{document}
                      
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1097,7 +1105,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1470 \end{document}
+l.1471 \end{document}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1111,10 +1119,10 @@ or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
- 18866 strings out of 478268
- 306313 string characters out of 5848350
+ 18865 strings out of 478268
+ 306308 string characters out of 5848350
  587623 words of memory out of 5000000
- 36732 multiletter control sequences out of 15000+600000
+ 36731 multiletter control sequences out of 15000+600000
  570516 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,117p,669b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
