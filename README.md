@@ -299,8 +299,7 @@ We obtained a total of 3015 records on trophic relationships (ESM II), with Acar
  empirical evidence from the database with 706 records (Figure 2).
 
 
-![Methods used in the literature to assign trophic resources to soil mesofauna taxa. Colors within columns refer to the number of different taxonomic levels for which each method assigned at least one resource. Assay: laboratory tests and observations. Isotopes: stable isotopes. Gut: intestinal content. Enzymes: Digestive enzymes. Mouth: mouthparts morphology. Lipid: lipid profile. Mo. det: molecular detection of intestinal content, f.p.: Food preference assays. Obs.: direct lab observations of feeding activity. Reviews: general reviews by other authors.](figures/Metodo_ByTaxLevel.png){width="4.14in"
- height="4.in"}
+![Methods used in the literature to assign trophic resources to soil mesofauna taxa. Colors within columns refer to the number of different taxonomic levels for which each method assigned at least one resource. Assay: laboratory tests and observations. Isotopes: stable isotopes. Gut: intestinal content. Enzymes: Digestive enzymes. Mouth: mouthparts morphology. Lipid: lipid profile. Mo. det: molecular detection of intestinal content, f.p.: Food preference assays. Obs.: direct lab observations of feeding activity. Reviews: general reviews by other authors.](figures/Metodo_ByTaxLevel.png)
 
  Microarthropods at the family level constitute 9.3% of the
  observations in laboratory tests, with 63.6% of the total
@@ -343,7 +342,7 @@ We obtained a total of 3015 records on trophic relationships (ESM II), with Acar
  consumption, of which 16 were associated with the taxonomic level of
  the family, 105 to the genus level, and 474 to the species level.
 
-![The number of records in the literature assigning each one of the 13 trophic resources to a mesofauna taxon as shown in Table 1. Colors in the columns refer to the method used to assign those trophic resources to a particular taxon. Methods as in Fig. 2.](figures/Recursos_ByMetodo.png){width="5.7in" height="5.in"}
+![The number of records in the literature assigning each one of the 13 trophic resources to a mesofauna taxon as shown in Table 1. Colors in the columns refer to the method used to assign those trophic resources to a particular taxon. Methods as in Fig. 2.](figures/Recursos_ByMetodo.png)
 
  Laboratory observations (the most used method), mention the use of the
  thirteen trophic resources (Figure 3) in which the order of importance
@@ -397,8 +396,7 @@ We obtained a total of 3015 records on trophic relationships (ESM II), with Acar
 The empirical evidence that addresses the trophic study of Arthropleona (Collembola) is represented by 154 different species, these were mainly associated with saprophytic fungi (119 species), followed in importance by bacteria, litter and humus. The microfauna is mentioned as a resource for 39 species.
 
 
-![Bipartite graph showing the use of trophic resources by the main orders of Acari and Collembola. Upper nodes: Acari and Collembola orders as in Table 2. Lower nodes: trophic resources. The thickness and intensity of the lines give an idea of the proportion of mentions in the available literature about their use of trophic resources. Resource names as in Tables 1 and 2.](figures/Bi_Orden_Recurso.png){width="5.4in"
- height="3.6in"}
+![Bipartite graph showing the use of trophic resources by the main orders of Acari and Collembola. Upper nodes: Acari and Collembola orders as in Table 2. Lower nodes: trophic resources. The thickness and intensity of the lines give an idea of the proportion of mentions in the available literature about their use of trophic resources. Resource names as in Tables 1 and 2.](figures/Bi_Orden_Recurso.png)
 
  Figure 4 presents the proportion of resources used by the main 3 mite
  orders and 3 Collembola orders, as found in the literature. For
@@ -542,16 +540,15 @@ However, this information must be interpreted with caution, because within a tax
 
  Behan-Pelletier V, Newton G., 1999. Linking soil biodiversity and
  ecosystem function. The taxonomic dilemma. BioScience 2.
- [[https://doi.org/10.2307/1313540]](https://doi.org/10.2307/1313540).
+ <https://doi.org/10.2307/1313540>.
 
  Bellinger PF, Christiansen KA, Janssens F., 2020. Internet resource
- available from:
- [[http://www.collembola.org]](http://www.collembola.org/). Last
+ available from: <http://www.collembola.org>. Last
  updated: November 30, 2020. Last accessed: December 23, 2020.
 
  Berg, M.P., Stoffer, M., van den Heuvel, H. 2004. Feeding guilds in
  Collembola based on digestive enzymes. Pedobiologia 48, 589-601. DOI:
- [[\10.1016/j.pedobi.2004.07.006]](http://dx.doi.org/10.1016%2Fj.pedobi.2004.07.006)
+ [10.1016/j.pedobi.2004.07.006](http://dx.doi.org/10.1016%2Fj.pedobi.2004.07.006)
 
  Berg B, McClaugherty C., 2008. Plant litter: decomposition, humus
  formation, carbon sequestration, 2nd. ed. Springer, Berlin.
@@ -866,7 +863,6 @@ Table: Basic description of trophic resources. Total records of consumers by tro
 ^e^Persson et al. 1980 ^f^Krantz & Walter 2009 ^g^Chernova et al. 2007 ^h^Rusek 1998 ^i^Schneider et al. 2005
 
 \newpage
-\blandscape
 
 \begin{longtable}[]{@{}lcccccccccccccccccc@{}}
 \caption{Breakdown of resources by Nested boxes represent the main orders of Acari and Collembola. In parentheses is the total number of taxa for the taxonomic category. Within the cells, the number of taxa associated with the trophic resource is shown. M: Mesostigmata, S: Sarcoptiformes, T: Trombidiformes, A: Arthropleona, N: Neelipleona, Sy: Symphypleona.}\\
@@ -922,7 +918,6 @@ Table: Basic description of trophic resources. Total records of consumers by tro
 \end{longtable}
 
  
-\elandscape
 
 \newpage
 
