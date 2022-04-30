@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1651332839 "draft.tex" "draft.pdf" "draft" 1651332840
+["pdflatex"] 1651333730 "draft.tex" "draft.pdf" "draft" 1651333731
   "/opt/texlive/texdir/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1136768653 4484 b828043cbd581d289d955903c1339981 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm" 1136768653 6628 34c39492c0adc454c1c199922bba8363 ""
@@ -28,7 +28,6 @@
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/stix2-type1/t1-stix2text-bold.tfm" 1610747736 28532 15c9fc954b1440700b35aab90bfb9230 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/stix2-type1/t1-stix2text-italic.tfm" 1610747736 30900 0903f6d37c44d064d62d9c928b7560fc ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/stix2-type1/t1-stix2text.tfm" 1610747736 28540 097ba14dab39294b86bfe4de12d2fe0b ""
-  "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/stix2-type1/ts1-stix2text.tfm" 1610747736 1460 ab4098db9455eb1e01cadc3c0fc30c5f ""
   "/opt/texlive/texdir/texmf-dist/fonts/vf/adobe/helvetic/phvb8t.vf" 1136768653 2340 0efed6a948c3c37d870e4e7ddb85c7c3 ""
   "/opt/texlive/texdir/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf" 1136768653 2344 44ff28c9ef2fc97180cd884f900fee71 ""
   "/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -121,7 +120,6 @@
   "/opt/texlive/texdir/texmf-dist/tex/latex/stix2-type1/ls2stix2tt.fd" 1610836320 1650 bfd4c7fbfec9027203a2a6f1dcdc0b26 ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/stix2-type1/stix2.sty" 1610836320 127573 0916e5dc57dc4570f53b7ad47c3008e8 ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/stix2-type1/t1stix2.fd" 1610836320 2217 7e5caa291508cddad61b556f7059541a ""
-  "/opt/texlive/texdir/texmf-dist/tex/latex/stix2-type1/ts1stix2.fd" 1610836320 2236 9514e689bebece9172690330f645f3ba ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/tools/array.sty" 1636758526 12694 6c23725d50ab9d1e2d3ce482c58ffcf3 ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/tools/calc.sty" 1622581934 10214 00ce62e730d0cfe22b35e8f1c84949c7 ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/tools/longtable.sty" 1636758526 12892 3ffe092fc7f5d1cb9866f1bcb071d0d6 ""
@@ -132,10 +130,10 @@
   "/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1649102900 4410328 ad4c8b228945fed75b2c936885ec50a0 ""
   "/opt/texlive/texdir/texmf-var/web2c/pdftex/pdflatex.fmt" 1649102970 2826451 94aa35869eb83e6c7f1128c86158d424 ""
   "/opt/texlive/texdir/texmf.cnf" 1649102891 555 bd60ff59e4d560b42d96b004436f91d3 ""
-  "draft.aux" 1651332840 7326 2000ac711f1b212ba2c72ea7e4121649 "pdflatex"
-  "draft.fff" 1651332840 1897 eaf0458044adf77f53d24b6a0ccc7fa0 "pdflatex"
-  "draft.out" 1651332840 2785 1ca89ef7443597c1fe52d39040fc33ac "pdflatex"
-  "draft.tex" 1651332836 68927 1a11165c60a5fda52041c3a0dd2f853c ""
+  "draft.aux" 1651333731 7326 2000ac711f1b212ba2c72ea7e4121649 "pdflatex"
+  "draft.fff" 1651333731 1897 eaf0458044adf77f53d24b6a0ccc7fa0 "pdflatex"
+  "draft.out" 1651333731 2785 1ca89ef7443597c1fe52d39040fc33ac "pdflatex"
+  "draft.tex" 1651333727 68826 5f983916b0f5780cc693a8b10af4a57e ""
   (generated)
   "draft.aux"
   "draft.fff"
