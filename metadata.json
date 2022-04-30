@@ -3,25 +3,22 @@
   "authors": [
     {
       "affiliations": [
-        "Departamento de Ciencias Básicas",
-        "Universidad Nacional de Luján (Argentina)"
+        "Departamento de Ciencias Básicas, Universidad Nacional de Luján, Argentina."
       ],
       "familyname": "Velazco",
       "givennames": "Víctor Nicolás",
-      "email": "",
-      "orcid": "",
-      "status": ["corresponding", "equal"]
+      "email": "vicvelazco9@gmail.com"
     },
     {
       "affiliations": [
-        "Instituto de Ciencias, Universidad Nacional de General Sarmiento (Argentina)",
-        "Centro Austral de Investigaciones Científicas (CADIC-CONICET), Ushuaia, Argentina."
+        "Centro Austral de Investigaciones Científicas (CADIC-CONICET), Ushuaia, Argentina.",
+        "Instituto de Ciencias, Universidad Nacional de General Sarmiento, Argentina."
       ],
       "familyname": "Saravia",
       "givennames": "Leonardo Ariel",
       "email": "lsaravia@campus.ungs.edu.ar",
-      "orcid": "",
-      "status": ["corresponding", "equal"]
+      "orcid": "0000-0002-7911-4398",
+      "status": ["corresponding"]
     }
   ],
   "abstract": {
