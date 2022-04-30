@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1651343569 "preprint.tex" "preprint.pdf" "preprint" 1651343570
+["pdflatex"] 1651350613 "preprint.tex" "preprint.pdf" "preprint" 1651350615
   "/opt/texlive/texdir/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1136768653 4484 b828043cbd581d289d955903c1339981 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm" 1136768653 6628 34c39492c0adc454c1c199922bba8363 ""
@@ -207,13 +207,13 @@
   "/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1649102900 4410328 ad4c8b228945fed75b2c936885ec50a0 ""
   "/opt/texlive/texdir/texmf-var/web2c/pdftex/pdflatex.fmt" 1649102970 2826451 94aa35869eb83e6c7f1128c86158d424 ""
   "/opt/texlive/texdir/texmf.cnf" 1649102891 555 bd60ff59e4d560b42d96b004436f91d3 ""
-  "figures/Bi_Orden_Recurso.png" 1651343565 1667392 69d38f54a760f3a9444654a91f5ce88c ""
-  "figures/Metodo_ByTaxLevel.png" 1651343565 161544 f223f81cc5bb3fccaf1a7d4d895c5894 ""
-  "figures/Recursos_ByMetodo.png" 1651343565 186919 3d6f4d03981a11fb3d6643e627ce1af4 ""
-  "logo.png" 1651343564 48455 a63f319933b5fbf1cb3d97b6f6857e7e ""
-  "preprint.aux" 1651343570 4325 7ff028bacbea37e989b284992a4c2618 "pdflatex"
-  "preprint.out" 1651343570 1566 af2c31418b1c4267127af4d3b267a08c "pdflatex"
-  "preprint.tex" 1651343564 70174 2479e16c1014c9e49d80016044e9412b ""
+  "figures/Bi_Orden_Recurso.png" 1651350611 1667392 69d38f54a760f3a9444654a91f5ce88c ""
+  "figures/Metodo_ByTaxLevel.png" 1651350611 161544 f223f81cc5bb3fccaf1a7d4d895c5894 ""
+  "figures/Recursos_ByMetodo.png" 1651350611 186919 3d6f4d03981a11fb3d6643e627ce1af4 ""
+  "logo.png" 1651350610 48455 a63f319933b5fbf1cb3d97b6f6857e7e ""
+  "preprint.aux" 1651350614 4683 7436fc1c3cc5cadccb0cd42b74e38a44 "pdflatex"
+  "preprint.out" 1651350614 1431 568cb884fdb932c3f62cc8004c45ba76 "pdflatex"
+  "preprint.tex" 1651350610 68873 b00f94f28b42c0abf1fd873bd2925fd3 ""
   (generated)
   "preprint.aux"
   "preprint.log"
