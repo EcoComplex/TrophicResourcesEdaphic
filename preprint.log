@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  30 APR 2022 15:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  30 APR 2022 18:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1222,41 +1222,7 @@ LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
 ]
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 8.54997pt on input line 319.
- [2]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.478 ...tures; the isotopic signature of \$\delta
-                                                  \$15N informs
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.487 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (1762.48352pt too wide) in paragraph at lines 476--487
-\T1/stix2/m/n/9 sources is based on the study of iso-topic sig-na-tures; the is
-o-topic sig-na-ture of $$\LS1/stix2/m/it/9 ^^N\LS1/stix2/m/n/9 >15\LS1/stix2/m/
-it/9 Ninformsaboutthetrophicleveloftheinvertebrateandthatof\LS1/stix2/m/n/9 >\L
-S1/stix2/m/it/9 ^^N\LS1/stix2/m/n/9 >13\LS1/stix2/m/it/9 Cwillindicatethepropor
-tionoftrophicresourcesconsumed; butthepotentialtrophicresourcesneedtobechosenpr
-eviouslytotheisotopicanalysis:\LS1/stix2/m/n/9 .\LS1/stix2/m/it/9 Tiunov\LS1/st
-ix2/m/n/9 2007; \LS1/stix2/m/it/9 Maraunetal: \LS1/stix2/m/n/9 2011; \LS1/stix2
-/m/it/9 Potapov; Tiunov; andScheu\LS1/stix2/m/n/9 2019; \LS1/stix2/m/it/9 Potap
-ovetal: \LS1/stix2/m/n/9 2019/\LS1/stix2/m/it/9 also; thepotentialofthistooliss
-uchthatinferencescanevenbemadeaboutthemetabolicpathwaysofbiomolecules\LS1/stix2
-/m/n/9 .\LS1/stix2/m/it/9 Polliereret:Al:\LS1/stix2/m/n/9 2019\LS1/stix2/m/it/9
- ; Pollierer\LS1/stix2/m/n/9 ™\LS1/stix2/m/it/9 Scheu\LS1/stix2/m/n/9 2021; \LS
-1/stix2/m/it/9 Chamberlainet:Al:\LS1/stix2/m/n/9 2006/\LS1/stix2/m/it/9 :$ 
- []
-
-[3]
+ [2] [3]
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
 (Font)              scaled to size 9.0pt on input line 571.
  [4]
@@ -1835,11 +1801,11 @@ my insertion and my current dilemma will both disappear.
 
  
 Here is how much of TeX's memory you used:
- 30706 strings out of 478268
- 557797 string characters out of 5848350
- 929125 words of memory out of 5000000
- 48367 multiletter control sequences out of 15000+600000
- 617175 words of font info for 140 fonts, out of 8000000 for 9000
+ 30707 strings out of 478268
+ 557811 string characters out of 5848350
+ 930579 words of memory out of 5000000
+ 48368 multiletter control sequences out of 15000+600000
+ 624286 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,21n,117p,592b,1607s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!

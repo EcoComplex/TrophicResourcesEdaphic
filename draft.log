@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  30 APR 2022 15:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.4)  30 APR 2022 18:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -847,46 +847,12 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 8.54997pt on input line 289.
  [3
 
-] [4] [5]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.420 ...tures; the isotopic signature of \$\delta
-                                                  \$15N informs
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.429 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (1784.57986pt too wide) in paragraph at lines 418--429
-\T1/stix2/m/n/10.95 $$\LS1/stix2/m/it/10.95 ^^N\LS1/stix2/m/n/10.95 >15\LS1/sti
-x2/m/it/10.95 Ninformsaboutthetrophicleveloftheinvertebrateandthatof\LS1/stix2/
-m/n/10.95 >\LS1/stix2/m/it/10.95 ^^N\LS1/stix2/m/n/10.95 >13\LS1/stix2/m/it/10.
-95 Cwillindicatetheproportionoftrophicresourcesconsumed; butthepotentialtrophic
-resourcesneedtobechosenpreviouslytotheisotopicanalysis:\LS1/stix2/m/n/10.95 .\L
-S1/stix2/m/it/10.95 Tiunov\LS1/stix2/m/n/10.95 2007; \LS1/stix2/m/it/10.95 Mara
-unetal: \LS1/stix2/m/n/10.95 2011; \LS1/stix2/m/it/10.95 Potapov; Tiunov; andSc
-heu\LS1/stix2/m/n/10.95 2019; \LS1/stix2/m/it/10.95 Potapovetal: \LS1/stix2/m/n
-/10.95 2019/\LS1/stix2/m/it/10.95 also; thepotentialofthistoolissuchthatinferen
-cescanevenbemadeaboutthemetabolicpathwaysofbiomolecules\LS1/stix2/m/n/10.95 .\L
-S1/stix2/m/it/10.95 Polliereret:Al:\LS1/stix2/m/n/10.95 2019\LS1/stix2/m/it/10.
-95 ; Pollierer\LS1/stix2/m/n/10.95 ™\LS1/stix2/m/it/10.95 Scheu\LS1/stix2/m/n/1
-0.95 2021; \LS1/stix2/m/it/10.95 Chamberlainet:Al:\LS1/stix2/m/n/10.95 2006/\LS
-1/stix2/m/it/10.95 :$  
- []
-
-[6] [7] [8]
+] [4] [5] [6]
+[7] [8] [9]
 \openout4 = `draft.fff'.
 
- (draft.fff) [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
-[19] [20] [21]
+ (draft.fff) [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+[20] [21]
 Overfull \hbox (12.5883pt too wide) in paragraph at lines 1191--1192
  []\T1/stix2/m/n/10.95 Family| 
  []
